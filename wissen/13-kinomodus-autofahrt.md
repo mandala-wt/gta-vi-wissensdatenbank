@@ -46,7 +46,7 @@
 ### Weitere Möglichkeiten, sich fahren zu lassen
 
 - 🟡 Als Beifahrer kann man laut Beebom den Partner fahren lassen; mit Steuerkreuz rechts halten + Quadrat bittet man ihn, schneller zu fahren. [A-015]
-- 🟡 Laut Beebom gibt es eine Fahrdienst-App „RydeMe“; im Fahrzeug kann die Fahrt gegen 100 $ übersprungen werden. [A-015] (nur eine Quelle; Details gehören in [12 – Karte und Navigation](12-karte-navigation.md))
+- 🟡 Laut Beebom gibt es eine Mitfahr-App „RydeMe“; im Fahrzeug kann die Fahrt gegen 100 $ übersprungen werden. [A-015] (nur eine Quelle; Details gehören in [12 – Karte und Navigation](12-karte-navigation.md))
 
 ## Aus GTA V bekannt – für GTA VI NICHT bestätigt
 

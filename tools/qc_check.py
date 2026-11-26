@@ -70,8 +70,10 @@ def main() -> int:
         text = f.read_text(encoding="utf-8")
         body = strip_code(text)
 
-        # 2. Links
-        for ziel in LINK_RE.findall(body):
+        beispiel = rel.startswith("vorlagen/") or rel in ("AGENTS.md", "CLAUDE.md")
+
+        # 2. Links (Vorlagen enthalten Platzhalter-Links)
+        for ziel in ([] if rel.startswith("vorlagen/") else LINK_RE.findall(body)):
             if re.match(r"^[a-z]+:", ziel) or ziel.startswith("#"):
                 continue
             pfad = ziel.split("#", 1)[0]
@@ -81,7 +83,7 @@ def main() -> int:
                 fehler.append(f"{rel}: toter Link → {ziel}")
 
         # 4. Quellen-IDs (Quellenlisten selbst ausgenommen)
-        if not rel.startswith("quellen/notizen/") and rel != "SOURCES.md":
+        if not rel.startswith("quellen/notizen/") and rel != "SOURCES.md" and not beispiel:
             for qid in QID_RE.findall(body):
                 benutzt.setdefault(qid, set()).add(rel)
 
@@ -117,11 +119,9 @@ def main() -> int:
             if j.name == "missionen.json" and isinstance(data, list):
                 missionen = data
             if isinstance(data, list):
-                for i, e in enumerate(data):
-                    if isinstance(e, dict):
-                        for qid in e.get("quellen", []) or []:
-                            if qid not in definiert:
-                                fehler.append(f"daten/{j.name}[{i}]: Quellen-ID {qid} nicht in SOURCES.md")
+                fehlend = sorted({q for e in data if isinstance(e, dict) for q in (e.get("quellen") or []) if q not in definiert})
+                if fehlend:
+                    fehler.append(f"daten/{j.name}: Quellen-IDs nicht in SOURCES.md: {', '.join(fehlend)}")
         except json.JSONDecodeError as e:
             fehler.append(f"daten/{j.name}: ungültiges JSON ({e})")
 
