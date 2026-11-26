@@ -46,7 +46,7 @@ Alle Einstellungen findest du in [02 – Einstellungen](wissen/02-einstellungen.
 | Schulter beim Zielen wechseln · Zoom | **Steuerkreuz links** · **R3** | 🟡 [A-006] [A-007] |
 | Kinoansicht | **Steuerkreuz unten halten + Options** | 🟡 [A-015] [A-016] |
 
-⚠️ Widerspruch: Springen liegt laut zwei geprüften Quellen auf **Kreuz**, laut einigen anderen Seiten auf Quadrat. → [01](wissen/01-steuerung-dualsense.md)
+🟡 Springen liegt im Default-Schema auf **Kreuz**, im Classic-Schema auf **Quadrat** (dort rennt man mit Kreuz). Der frühere Widerspruch klärt sich damit vermutlich auf. → [01](wissen/01-steuerung-dualsense.md)
 ⚠️ Widerspruch: Die Taste für den Figurenwechsel (Jason ↔ Lucia) ist umstritten (Steuerkreuz rechts oder eine Kombination mit R1). → [05](wissen/05-spielmechaniken.md)
 
 > Tipp: Im Zweifel zeigt **Options → Settings → Control Scheme** die aktuelle Belegung. Das ist die verlässlichste Quelle.
@@ -138,7 +138,7 @@ Alle Einstellungen findest du in [02 – Einstellungen](wissen/02-einstellungen.
 | Altersfreigabe? | **USK 18** | ✅ [C-001] [C-002] |
 | Disc oder Download? | Auch die Box enthält nur einen **Download-Code**. | ✅ [C-026] [C-027] |
 | Wie lang ist das Spiel? | Ein Rockstar-Entwickler brauchte rund **80 Stunden** (inkl. optionaler Ziele). | ✅ [C-031] [C-028] |
-| Wie viele Speicherplätze? | Rund 15 (⚠️ 14 oder 15 manuelle, Quellen widersprechen sich) | 🟡 [B-019] [C-017] |
+| Wie viele Speicherplätze? | 15 manuelle + 1 Autosave laut den meisten Guides (VGC zählt 15 insgesamt). Keine offizielle Angabe | 🟡 [B-019] [C-017] [P-008] |
 | Wann kann ich die Figur wechseln? | Im Laufe der Story. Das Spiel sagt Bescheid. | ✅ [B-018] [C-020] |
 → [15 – FAQ](wissen/15-faq.md)
 

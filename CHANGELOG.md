@@ -2,6 +2,13 @@
 
 Alle Änderungen an der Wissensdatenbank. Format: neueste oben. Datumsformat JJJJ-MM-TT.
 
+## [0.1.2] – 2026-11-26
+
+### Geändert
+- Widerspruch „Springen“ aufgelöst: Default-Schema Kreuz, Classic-Schema Quadrat (🟡, Quellen P-006, P-007).
+- Speicherplätze: Mehrheitsangabe 15 manuelle + 1 Autosave ergänzt (🟡, P-008), Widerspruch zu VGC bleibt dokumentiert.
+- Figurenwechsel-Taste bleibt ungeklärt, braucht Prüfung im Spiel.
+
 ## [0.1.1] – 2026-11-26
 
 ### Hinzugefügt

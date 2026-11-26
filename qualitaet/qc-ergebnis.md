@@ -1,8 +1,8 @@
 # QC-Ergebnis
 
 - Markdown-Dateien: 56
-- Definierte Quellen: 116 · zitierte Quellen-IDs: 104
-- Statusmarker gesamt: bestätigt 568, plausibel 1156, unbestätigt 225, widerlegt 53
+- Definierte Quellen: 118 · zitierte Quellen-IDs: 106
+- Statusmarker gesamt: bestätigt 570, plausibel 1161, unbestätigt 225, widerlegt 53
 - Fehler: 0 · Warnungen: 1
 
 ## Warnungen
@@ -13,7 +13,7 @@
 
 | Datei | ✅ | 🟡 | ❓ | ❌ |
 |---|---|---|---|---|
-| GESAMTANLEITUNG.md | 39 | 30 | 1 | 1 |
+| GESAMTANLEITUNG.md | 39 | 31 | 1 | 1 |
 | spoiler/README.md | 1 | 4 | 0 | 0 |
 | spoiler/missionen/kapitel-01.md | 24 | 29 | 2 | 1 |
 | spoiler/missionen/kapitel-02.md | 13 | 24 | 1 | 1 |
@@ -25,11 +25,11 @@
 | spoiler/story/kapitel-03.md | 1 | 6 | 2 | 1 |
 | spoiler/story/kapitel-04.md | 1 | 5 | 1 | 1 |
 | spoiler/story/kapitel-05.md | 1 | 6 | 1 | 1 |
-| wissen/01-steuerung-dualsense.md | 17 | 55 | 4 | 1 |
+| wissen/01-steuerung-dualsense.md | 18 | 55 | 4 | 1 |
 | wissen/02-einstellungen.md | 21 | 97 | 3 | 1 |
 | wissen/03-anfaenger-einstellungen.md | 11 | 40 | 4 | 1 |
 | wissen/04-zielhilfe-kamera.md | 6 | 46 | 4 | 1 |
-| wissen/05-spielmechaniken.md | 19 | 28 | 4 | 1 |
+| wissen/05-spielmechaniken.md | 19 | 29 | 4 | 1 |
 | wissen/06-fahrzeuge-tuning.md | 16 | 21 | 6 | 1 |
 | wissen/07-geld-wirtschaft.md | 8 | 22 | 9 | 1 |
 | wissen/08-missionen-uebersicht.md | 5 | 24 | 4 | 1 |

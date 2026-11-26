@@ -91,7 +91,7 @@
 
 - ⚠️ Widerspruch: **Taste für den Figurenwechsel** – VGC: Steuerkreuz rechts drücken [B-018]; Gfinity (nur Suchauszug, nicht geöffnet): Steuerkreuz rechts halten, dann R1 [B-037]. Möglicherweise öffnet Halten ein Auswahlmenü – im Spiel prüfen.
 - ⚠️ Widerspruch: **Wo/wann wechseln** – Kotaku: jederzeit, Steuerkreuz [B-009]; Shacknews: Wechsel im Safehouse [B-011]; VGC: erst nach Story-Fortschritt, situationsabhängig ausgegraut [B-018]. Wahrscheinlich: zunächst eingeschränkt, später frei außerhalb von Missionen.
-- ⚠️ Widerspruch: **Anzahl Speicherplätze** – VGC: 15 Plätze, einer davon Autosave (= 14 manuelle) [B-019]; IBTimes (nur Titel/Auszug): 15 manuelle + separater Autosave [B-036].
+- ⚠️ Widerspruch: **Anzahl Speicherplätze** – VGC: 15 Plätze, einer davon Autosave (= 14 manuelle) [B-019]; IBTimes (nur Titel/Auszug): 15 manuelle + separater Autosave [B-036]. Nachprüfung 2026-11-26: Die Mehrheit weiterer Guides (u. a. Method, Dexerto, Mobalytics, Gamerfuzion laut Suchauszug) nennt **15 manuelle Slots + 1 Autosave** [P-008]. Ein Guide (MetaForge) meldet, dass das Laden eines älteren manuellen Spielstands auch den Autosave überschreibt [P-008]. Keine offizielle Rockstar-Angabe. Arbeitsstand: 15 + 1 (🟡), im Spiel zählen.
 
 ## Offene Fragen / Wissenslücken
 

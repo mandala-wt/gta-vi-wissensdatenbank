@@ -5,9 +5,9 @@ Priorität: 🔴 hoch · 🟠 mittel · 🟢 niedrig
 ## Sofort durch den Nutzer (beim Spielen, je 1–5 Minuten)
 
 - 🔴 **Einstellungsmenü abfotografieren** (alle 8 Reiter, PS5-Share-Taste → Screenshot) und nach `quellen/screenshots/` legen. Damit lassen sich Menünamen auf Deutsch und Standardwerte sicher bestätigen.
-- 🔴 **Steuerung prüfen:** Options → Settings → Control Scheme. Klären: Springen (Kreuz oder Quadrat?), Figurenwechsel (Steuerkreuz rechts drücken oder halten + R1?), Kriminalprofil.
+- 🔴 **Steuerung prüfen:** Options → Settings → Control Scheme. Klären: Figurenwechsel (Steuerkreuz rechts drücken oder halten + R1?), Kriminalprofil. Springen ist vermutlich geklärt (Default Kreuz, Classic Quadrat), bitte kurz bestätigen.
 - 🟠 Spielversion notieren: PS5-Startbildschirm → Spiel markieren → Options → Informationen.
-- 🟠 Anzahl Speicherplätze zählen (14 oder 15 manuelle?).
+- 🟠 Anzahl Speicherplätze zählen (Mehrheit der Guides: 15 manuelle + 1 Autosave).
 
 ## Recherche
 

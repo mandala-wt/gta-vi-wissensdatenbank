@@ -120,7 +120,7 @@
 
 ## Widersprüche
 
-- ⚠️ Widerspruch: Springen/Klettern liegt laut Shacknews und GTAbase auf **Kreuz** [A-006] [A-007]; mehrere SEO-Guide-Seiten nannten in Suchergebnissen **Quadrat** (nicht abgerufen, nicht als Quelle geführt). Wir folgen den beiden abgerufenen Quellen (🟡).
+- ✅ Aufgelöst (2026-11-26, Projektleitung): Springen/Klettern liegt im **Default-Schema auf Kreuz** [A-006] [A-007] [P-007]. Im **Classic-Schema** tauschen Rennen und Springen: Rennen auf Kreuz, Springen auf **Quadrat** [P-006] [P-007]. Die „Quadrat“-Angaben der SEO-Seiten beziehen sich also vermutlich auf Classic. Status 🟡, weil nur aus Suchauszügen mehrerer Guides, nicht im Spiel geprüft.
 - ⚠️ Widerspruch: PC Games (07.09.2026) beschrieb Sprint auf L3 noch als „wahrscheinlich“ und stützte sich auf einen Content Creator [A-028]; nach Release bestätigen Shacknews/GTAbase/Dexerto L3 im Standard-Schema [A-006] [A-007] [A-008].
 - ⚠️ Widerspruch: Beebom nennt bei Control Scheme nur „Default oder Classic“ [A-009], andere Quellen zusätzlich „Left-Handed“ [A-006] [A-010].
 
