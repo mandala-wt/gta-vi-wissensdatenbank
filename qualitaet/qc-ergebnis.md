@@ -1,9 +1,13 @@
 # QC-Ergebnis
 
 - Markdown-Dateien: 55
-- Definierte Quellen: 116 · zitierte Quellen-IDs: 116
+- Definierte Quellen: 116 · zitierte Quellen-IDs: 104
 - Statusmarker gesamt: bestätigt 567, plausibel 1153, unbestätigt 225, widerlegt 53
-- Fehler: 0 · Warnungen: 0
+- Fehler: 0 · Warnungen: 1
+
+## Warnungen
+
+- 12 Quellen in SOURCES.md werden nirgends zitiert: A-029, A-030, B-031, B-034, C-005, C-029, C-030, P-002, P-004, P-005, V-002, V-006
 
 ## Statusmarker je Wissensdatei
 

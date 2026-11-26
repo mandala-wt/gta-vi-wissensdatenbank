@@ -70,7 +70,7 @@ def main() -> int:
         text = f.read_text(encoding="utf-8")
         body = strip_code(text)
 
-        beispiel = rel.startswith("vorlagen/") or rel in ("AGENTS.md", "CLAUDE.md")
+        beispiel = rel.startswith("vorlagen/") or rel in ("AGENTS.md", "CLAUDE.md", "qualitaet/qc-ergebnis.md")
 
         # 2. Links (Vorlagen enthalten Platzhalter-Links)
         for ziel in ([] if rel.startswith("vorlagen/") else LINK_RE.findall(body)):
