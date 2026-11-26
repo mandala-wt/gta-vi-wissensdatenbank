@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Leonida",
+    "typ": "Bundesstaat",
+    "beschreibung_kurz": "Fiktiver, an Florida angelehnter US-Bundesstaat; Schauplatz des Spiels („Vice City, USA“).",
+    "status": "✅ Bestätigt",
+    "quellen": [
+      "B-001",
+      "B-004",
+      "B-005"
+    ]
+  },
+  {
+    "name": "Vice City",
+    "typ": "Stadt",
+    "beschreibung_kurz": "Großstadt nach Miami-Vorbild; laut Rockstar Glamour, Hektik und Gier Amerikas in einer Stadt.",
+    "status": "✅ Bestätigt",
+    "quellen": [
+      "B-001",
+      "B-006",
+      "B-007"
+    ]
+  },
+  {
+    "name": "Leonida Keys",
+    "typ": "Region",
+    "beschreibung_kurz": "Tropische Inselkette nach Vorbild der Florida Keys; Strände, Bars, Boote, gefährliche Gewässer.",
+    "status": "✅ Bestätigt",
+    "quellen": [
+      "B-006",
+      "B-007"
+    ]
+  },
+  {
+    "name": "Grassrivers",
+    "typ": "Region",
+    "beschreibung_kurz": "Sumpf- und Feuchtgebiet nach Everglades-Vorbild mit Alligatoren.",
+    "status": "✅ Bestätigt",
+    "quellen": [
+      "B-006",
+      "B-007"
+    ]
+  },
+  {
+    "name": "Port Gellhorn",
+    "typ": "Region",
+    "beschreibung_kurz": "Ehemaliger Urlaubsort an Leonidas „vergessener Küste“, heute heruntergekommen.",
+    "status": "✅ Bestätigt",
+    "quellen": [
+      "B-006",
+      "B-007"
+    ]
+  },
+  {
+    "name": "Ambrosia",
+    "typ": "Region",
+    "beschreibung_kurz": "„Herz von Leonida“: Fabriken, traditionelle Werte, lokale Biker-Gang.",
+    "status": "✅ Bestätigt",
+    "quellen": [
+      "B-006",
+      "B-007"
+    ]
+  },
+  {
+    "name": "Mount Kalaga National Park",
+    "typ": "Region (Nationalpark)",
+    "beschreibung_kurz": "Naturgebiet mit Wildtieren, Jagd, Angeln und Offroad-Strecken.",
+    "status": "✅ Bestätigt",
+    "quellen": [
+      "B-005",
+      "B-006",
+      "B-007"
+    ]
+  },
+  {
+    "name": "Gambit Bay",
+    "typ": "Ort (Gewässer/Angelgebiet laut PlayStation-Text)",
+    "beschreibung_kurz": "Auf der PlayStation-Seite als Angelrevier für das Ultimate-Edition-Boot genannt; Lage unbekannt.",
+    "status": "✅ Bestätigt (Name) / ❓ Unbestätigt (Lage)",
+    "quellen": [
+      "B-004",
+      "B-005"
+    ]
+  },
+  {
+    "name": "Watson Bay",
+    "typ": "Ort (Stadtteil/Gebiet, Art unklar)",
+    "beschreibung_kurz": "Standort der „Paradise Garage“ (Ultimate Edition); weitere Details unbekannt.",
+    "status": "✅ Bestätigt (Name) / ❓ Unbestätigt (Lage)",
+    "quellen": [
+      "B-004",
+      "B-005"
+    ]
+  },
+  {
+    "name": "Washington Beach",
+    "typ": "Ort (Art unklar)",
+    "beschreibung_kurz": "Auf der offiziellen PlayStation-Seite genannt; keine Beschreibung.",
+    "status": "✅ Bestätigt (Name) / ❓ Unbestätigt (Details)",
+    "quellen": [
+      "B-005"
+    ]
+  },
+  {
+    "name": "Lake Leonida",
+    "typ": "Ort (Art unklar)",
+    "beschreibung_kurz": "Auf der offiziellen PlayStation-Seite genannt; keine Beschreibung.",
+    "status": "✅ Bestätigt (Name) / ❓ Unbestätigt (Details)",
+    "quellen": [
+      "B-005"
+    ]
+  },
+  {
+    "name": "Stockyard",
+    "typ": "Ort (Art unklar)",
+    "beschreibung_kurz": "Auf der offiziellen PlayStation-Seite genannt; keine Beschreibung.",
+    "status": "✅ Bestätigt (Name) / ❓ Unbestätigt (Details)",
+    "quellen": [
+      "B-005"
+    ]
+  }
+]

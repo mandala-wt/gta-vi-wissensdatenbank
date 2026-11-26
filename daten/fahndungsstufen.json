@@ -1,0 +1,20 @@
+[
+  {
+    "stufe": 1,
+    "beschreibung": "Niedrigste Stufe: laut Engadget nur wenige Polizisten auf deiner Spur. Gilt nur, wenn das Verbrechen gemeldet wurde (Zeugen, Alarm, Kamera).",
+    "status": "🟡 Plausibel",
+    "quellen": [
+      "B-014"
+    ]
+  },
+  {
+    "stufe": 6,
+    "beschreibung": "Höchste Stufe (GTA V hatte nur 5): militarisierte Polizeireaktion, Verfolgung über die gesamte Karte; sauberes Entkommen sehr schwer. Existenz der 6. Stufe mehrfach bestätigt, Beschreibung nur laut Engadget.",
+    "status": "✅ Bestätigt (Existenz) / 🟡 Plausibel (Beschreibung)",
+    "quellen": [
+      "B-012",
+      "B-013",
+      "B-014"
+    ]
+  }
+]
