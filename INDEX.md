@@ -37,6 +37,7 @@
 | Datei | Zweck |
 |---|---|
 | [berater/voice-coach-anleitung.md](berater/voice-coach-anleitung.md) | Schritt-für-Schritt-Einrichtung iPhone + AirPods + PS5 |
+| [berater/iphone-kurzanleitung.md](berater/iphone-kurzanleitung.md) | Kurzanleitung zum Abhaken: iPhone-Setup und Start vor jeder Sitzung |
 | [berater/system-prompt.md](berater/system-prompt.md) | Rolle und Antwortstil (zum Einfügen) |
 | [berater/spielerprofil-vorlage.md](berater/spielerprofil-vorlage.md) | Steckbrief über dich |
 | [berater/gedaechtnis.md](berater/gedaechtnis.md) | Wie sich der Coach Dinge merkt |

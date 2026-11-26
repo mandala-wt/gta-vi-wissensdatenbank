@@ -1,8 +1,8 @@
 # QC-Ergebnis
 
-- Markdown-Dateien: 55
+- Markdown-Dateien: 56
 - Definierte Quellen: 116 · zitierte Quellen-IDs: 104
-- Statusmarker gesamt: bestätigt 567, plausibel 1153, unbestätigt 225, widerlegt 53
+- Statusmarker gesamt: bestätigt 568, plausibel 1156, unbestätigt 225, widerlegt 53
 - Fehler: 0 · Warnungen: 1
 
 ## Warnungen

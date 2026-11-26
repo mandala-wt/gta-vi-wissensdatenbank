@@ -8,7 +8,7 @@ Deutschsprachige, quellenbasierte Wissensdatenbank zu **Grand Theft Auto VI auf 
 
 | Ich will … | Dann lies … |
 |---|---|
-| **den Voice-Coach einrichten** | [berater/voice-coach-anleitung.md](berater/voice-coach-anleitung.md) |
+| **den Voice-Coach einrichten** | [berater/iphone-kurzanleitung.md](berater/iphone-kurzanleitung.md) (kurz) · [berater/voice-coach-anleitung.md](berater/voice-coach-anleitung.md) (ausführlich) |
 | das Wichtigste auf einen Blick | [GESAMTANLEITUNG.md](GESAMTANLEITUNG.md) |
 | ein bestimmtes Thema | [INDEX.md](INDEX.md) (alle 18 Wissensbereiche) |
 | Hilfe zu einer Mission (Spoiler!) | [spoiler/README.md](spoiler/README.md) |

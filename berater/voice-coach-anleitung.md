@@ -1,6 +1,7 @@
 # Voice-Coach für GTA VI auf der PS5 – Anleitung für Anfänger
 
 > **Stand:** 2026-11-26 · Für: iPhone + AirPods + PS5 · Kein Raspberry Pi, kein Terminal, kein Slack.
+> **Nur die Schritte zum Abhaken?** → [iphone-kurzanleitung.md](iphone-kurzanleitung.md)
 > Aussagen über Apps ändern sich schnell. Unsichere Punkte sind mit 🟡/❓ markiert, Quellen in [SOURCES.md](../SOURCES.md) (V-xxx).
 
 ## 1. Die Lösung in einem Satz

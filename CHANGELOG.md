@@ -2,6 +2,11 @@
 
 Alle Änderungen an der Wissensdatenbank. Format: neueste oben. Datumsformat JJJJ-MM-TT.
 
+## [0.1.1] – 2026-11-26
+
+### Hinzugefügt
+- `berater/iphone-kurzanleitung.md`: einseitige Kurzanleitung zum Abhaken für das iPhone-Setup des Voice-Coaches. Verlinkt in README, INDEX und der ausführlichen Anleitung.
+
 ## [0.1.0] – 2026-11-26 – Erstaufbau
 
 Branch `claude/gta-vi-ps5-knowledge-base-ku8nos`, Pull Request zur Prüfung.
