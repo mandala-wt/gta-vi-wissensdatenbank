@@ -12,6 +12,6 @@
 | V-008 | Grok AI Chatbot Gains Memory Feature | MacRumors | Fachmedium | https://www.macrumors.com/2025/04/17/grok-ai-chatbot-gains-memory-feature/ | 2026-11-26 | nur Suchergebnis | Grok-Memory (Stand 2025) |
 | V-009 | Grok – App Store-Eintrag | Apple / xAI | offiziell | https://apps.apple.com/au/app/id6670324846 | 2026-11-26 | nur Suchergebnis | Hinweis: eigener Kommunikationsstil kann Websuche im Voice-Modus deaktivieren |
 | P-001 | Grand Theft Auto VI – PS5 Games | PlayStation | offiziell | https://www.playstation.com/en-us/games/grand-theft-auto-vi/ | 2026-11-26 | nur Suchergebnis | Nur PS5 (keine PS4-Version) |
-| P-002 | ‘GTA VI’ Release Date And Time On PS5 And Xbox Series X, Download Size And Day-One Updates | Forbes (Erik Kain) | Fachmedium | https://www.forbes.com/sites/erikkain/2026/11/16/gta-6-release-date-time-ps5-xbox-series-x-download-size-day-one-update/ | 2026-11-26 | nur Suchergebnis | Release 19.11.2026, Mitternacht Ortszeit, Day-One-Update |
+| P-002 | ‘GTA VI’ Release Date And Time On PS5 And Xbox Series X, Download Size And Day-One Updates | Forbes (Erik Kain) | Fachmedium | https://www.forbes.com/sites/erikkain/2026/11/16/gta-6-release-date-time-ps5-xbox-series-x-download-size-day-one-update/ | 2026-11-26 | nur Suchergebnis | Release 19.11.2026, Mitternacht Ortszeit. Laut Agent A war 1.002.001 ein Vorab-Update vor Release, kein „Day-One-Patch“ (siehe A-021 bis A-023) |
 
 „nur Suchergebnis“ = Inhalt nur über Suchmaschinen-Auszug bekannt, Seite nicht vollständig gelesen → Aussagen daraus höchstens 🟡.
