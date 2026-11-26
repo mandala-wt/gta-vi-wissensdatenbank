@@ -1,0 +1,2424 @@
+[
+  {
+    "id": "M001",
+    "kapitel": 1,
+    "reihenfolge": 1,
+    "titel_en": "Prologue",
+    "titel_de": "Prolog",
+    "typ": "haupt",
+    "spielfigur": "Lucia",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-012",
+      "C-008",
+      "C-011",
+      "C-014",
+      "C-020"
+    ]
+  },
+  {
+    "id": "M002",
+    "kapitel": 1,
+    "reihenfolge": 2,
+    "titel_en": "Gone Fishing",
+    "titel_de": "Angeltour",
+    "typ": "haupt",
+    "spielfigur": "Jason",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-012",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M003",
+    "kapitel": 1,
+    "reihenfolge": 3,
+    "titel_en": "Gear Up",
+    "titel_de": "Zu den Waffen",
+    "typ": "haupt",
+    "spielfigur": "Jason",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-012",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M004",
+    "kapitel": 1,
+    "reihenfolge": 4,
+    "titel_en": "Just A Scratch",
+    "titel_de": "Nur ein Kratzer",
+    "typ": "haupt",
+    "spielfigur": "Jason",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-012",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M005",
+    "kapitel": 1,
+    "reihenfolge": 5,
+    "titel_en": "Lab Fees",
+    "titel_de": "Laborgebühren",
+    "typ": "haupt",
+    "spielfigur": "Jason",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-012",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M006",
+    "kapitel": 1,
+    "reihenfolge": 6,
+    "titel_en": "Unwanted Attention",
+    "titel_de": "Unerwünschte Aufmerksamkeit",
+    "typ": "haupt",
+    "spielfigur": "Jason",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-012",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M007",
+    "kapitel": 1,
+    "reihenfolge": 7,
+    "titel_en": "Pipework",
+    "titel_de": "Rohre verlegen",
+    "typ": "haupt",
+    "spielfigur": "Jason",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-012",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M008",
+    "kapitel": 1,
+    "reihenfolge": 8,
+    "titel_en": "Hey Arnold!",
+    "titel_de": "Hey, Arnold!",
+    "typ": "haupt",
+    "spielfigur": "Jason",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-012",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M009",
+    "kapitel": 1,
+    "reihenfolge": 9,
+    "titel_en": "Island Dreams",
+    "titel_de": "Island Dreams",
+    "typ": "haupt",
+    "spielfigur": "Jason",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-012",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M010",
+    "kapitel": 1,
+    "reihenfolge": 10,
+    "titel_en": "Feng Shui",
+    "titel_de": "Feng Shui",
+    "typ": "haupt",
+    "spielfigur": "Jason",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-012",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M011",
+    "kapitel": 1,
+    "reihenfolge": 11,
+    "titel_en": "Coming Home",
+    "titel_de": "Heimkehr",
+    "typ": "haupt",
+    "spielfigur": "Jason",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-012",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M012",
+    "kapitel": 1,
+    "reihenfolge": 12,
+    "titel_en": "Buck Me",
+    "titel_de": "Buck Mich",
+    "typ": "haupt",
+    "spielfigur": "Jason",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-012",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M013",
+    "kapitel": 1,
+    "reihenfolge": 13,
+    "titel_en": "Clean Up After Donnie",
+    "titel_de": "Verwische Donnies Spuren",
+    "typ": "haupt",
+    "spielfigur": "Jason",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-012",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M014",
+    "kapitel": 1,
+    "reihenfolge": 14,
+    "titel_en": "Down to Earth",
+    "titel_de": "Boden der Tatsachen",
+    "typ": "haupt",
+    "spielfigur": "Jason",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-012",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M015",
+    "kapitel": 1,
+    "reihenfolge": 15,
+    "titel_en": "Clear Skies",
+    "titel_de": "Klarer Himmel",
+    "typ": "haupt",
+    "spielfigur": "Jason",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-012",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M016",
+    "kapitel": 1,
+    "reihenfolge": 16,
+    "titel_en": "Day Release",
+    "titel_de": "Freigang",
+    "typ": "haupt",
+    "spielfigur": "beide",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-012",
+      "C-008",
+      "C-011",
+      "C-014",
+      "C-020"
+    ]
+  },
+  {
+    "id": "M017",
+    "kapitel": 1,
+    "reihenfolge": 17,
+    "titel_en": "Swamped",
+    "titel_de": "Unter aller Sau",
+    "typ": "haupt",
+    "spielfigur": "Jason",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-012",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M018",
+    "kapitel": 1,
+    "reihenfolge": 18,
+    "titel_en": "Don Gone",
+    "titel_de": null,
+    "typ": "haupt",
+    "spielfigur": "Jason",
+    "spoilerstufe": "S2",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-012",
+      "C-008",
+      "C-011"
+    ]
+  },
+  {
+    "id": "M019",
+    "kapitel": 1,
+    "reihenfolge": 19,
+    "titel_en": "Recalibration",
+    "titel_de": "Neujustierung",
+    "typ": "haupt",
+    "spielfigur": "Jason",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-012",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M020",
+    "kapitel": 1,
+    "reihenfolge": 20,
+    "titel_en": "Tourist Trap",
+    "titel_de": "Touristenfalle",
+    "typ": "haupt",
+    "spielfigur": "beide",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-012",
+      "C-008",
+      "C-011",
+      "C-014",
+      "C-020"
+    ]
+  },
+  {
+    "id": "M021",
+    "kapitel": 1,
+    "reihenfolge": 21,
+    "titel_en": "Home Sweet Home",
+    "titel_de": "Trautes Heim",
+    "typ": "haupt",
+    "spielfigur": "Lucia",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-012",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M022",
+    "kapitel": 1,
+    "reihenfolge": 22,
+    "titel_en": "Discharge Time",
+    "titel_de": "Gegen ärztlichen Rat",
+    "typ": "haupt",
+    "spielfigur": "beide",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-012",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M023",
+    "kapitel": 1,
+    "reihenfolge": 23,
+    "titel_en": "Deposit Cash Into BuckMe",
+    "titel_de": null,
+    "typ": "haupt",
+    "spielfigur": "Jason",
+    "spoilerstufe": "S1",
+    "status": "plausibel",
+    "quellen": [
+      "C-008",
+      "C-011"
+    ]
+  },
+  {
+    "id": "M024",
+    "kapitel": 1,
+    "reihenfolge": 24,
+    "titel_en": "Save for the Future",
+    "titel_de": null,
+    "typ": "haupt",
+    "spielfigur": "Jason",
+    "spoilerstufe": "S1",
+    "status": "plausibel",
+    "quellen": [
+      "C-008",
+      "C-011"
+    ]
+  },
+  {
+    "id": "M025",
+    "kapitel": 1,
+    "reihenfolge": 25,
+    "titel_en": "Building a Life",
+    "titel_de": null,
+    "typ": "haupt",
+    "spielfigur": "Jason",
+    "spoilerstufe": "S1",
+    "status": "plausibel",
+    "quellen": [
+      "C-008",
+      "C-011"
+    ]
+  },
+  {
+    "id": "M026",
+    "kapitel": 1,
+    "reihenfolge": 26,
+    "titel_en": "Get Shirley's Rum",
+    "titel_de": null,
+    "typ": "neben",
+    "spielfigur": "Jason",
+    "spoilerstufe": "S1",
+    "status": "plausibel",
+    "quellen": [
+      "C-008",
+      "C-023"
+    ]
+  },
+  {
+    "id": "M027",
+    "kapitel": 1,
+    "reihenfolge": 27,
+    "titel_en": "Steal the Scooter",
+    "titel_de": null,
+    "typ": "neben",
+    "spielfigur": "Jason",
+    "spoilerstufe": "S1",
+    "status": "plausibel",
+    "quellen": [
+      "C-008"
+    ]
+  },
+  {
+    "id": "M028",
+    "kapitel": 1,
+    "reihenfolge": 28,
+    "titel_en": "Pick Up Groceries",
+    "titel_de": null,
+    "typ": "neben",
+    "spielfigur": "Jason",
+    "spoilerstufe": "S1",
+    "status": "plausibel",
+    "quellen": [
+      "C-008"
+    ]
+  },
+  {
+    "id": "M029",
+    "kapitel": 1,
+    "reihenfolge": 29,
+    "titel_en": "Buy Flowers",
+    "titel_de": null,
+    "typ": "neben",
+    "spielfigur": "Jason",
+    "spoilerstufe": "S1",
+    "status": "plausibel",
+    "quellen": [
+      "C-008"
+    ]
+  },
+  {
+    "id": "M030",
+    "kapitel": 1,
+    "reihenfolge": 30,
+    "titel_en": "Buy Lucia a Necklace",
+    "titel_de": null,
+    "typ": "neben",
+    "spielfigur": "Jason",
+    "spoilerstufe": "S1",
+    "status": "plausibel",
+    "quellen": [
+      "C-008"
+    ]
+  },
+  {
+    "id": "M031",
+    "kapitel": 1,
+    "reihenfolge": 31,
+    "titel_en": "Get The Chop",
+    "titel_de": null,
+    "typ": "neben",
+    "spielfigur": "Jason",
+    "spoilerstufe": "S1",
+    "status": "plausibel",
+    "quellen": [
+      "C-008"
+    ]
+  },
+  {
+    "id": "M032",
+    "kapitel": 1,
+    "reihenfolge": 32,
+    "titel_en": "Get Lucia's Clothes",
+    "titel_de": null,
+    "typ": "neben",
+    "spielfigur": "Jason",
+    "spoilerstufe": "S1",
+    "status": "plausibel",
+    "quellen": [
+      "C-008"
+    ]
+  },
+  {
+    "id": "M033",
+    "kapitel": 1,
+    "reihenfolge": 33,
+    "titel_en": "Catch a Bigger Fish",
+    "titel_de": null,
+    "typ": "neben",
+    "spielfigur": "Jason",
+    "spoilerstufe": "S1",
+    "status": "plausibel",
+    "quellen": [
+      "C-008"
+    ]
+  },
+  {
+    "id": "M034",
+    "kapitel": 1,
+    "reihenfolge": 34,
+    "titel_en": "Meditate with Lucia",
+    "titel_de": null,
+    "typ": "neben",
+    "spielfigur": "Jason",
+    "spoilerstufe": "S1",
+    "status": "plausibel",
+    "quellen": [
+      "C-008"
+    ]
+  },
+  {
+    "id": "M035",
+    "kapitel": 1,
+    "reihenfolge": 35,
+    "titel_en": "Find the Lost Drugs",
+    "titel_de": null,
+    "typ": "neben",
+    "spielfigur": "Jason",
+    "spoilerstufe": "S1",
+    "status": "plausibel",
+    "quellen": [
+      "C-008",
+      "C-023"
+    ]
+  },
+  {
+    "id": "M036",
+    "kapitel": 1,
+    "reihenfolge": 36,
+    "titel_en": "Clock Out",
+    "titel_de": null,
+    "typ": "neben",
+    "spielfigur": "Jason",
+    "spoilerstufe": "S1",
+    "status": "plausibel",
+    "quellen": [
+      "C-008"
+    ]
+  },
+  {
+    "id": "M037",
+    "kapitel": 1,
+    "reihenfolge": 37,
+    "titel_en": "Ring the Bell!",
+    "titel_de": null,
+    "typ": "neben",
+    "spielfigur": "Jason",
+    "spoilerstufe": "S1",
+    "status": "plausibel",
+    "quellen": [
+      "C-008"
+    ]
+  },
+  {
+    "id": "M038",
+    "kapitel": 1,
+    "reihenfolge": 38,
+    "titel_en": "Donnie's Lost Drugs",
+    "titel_de": null,
+    "typ": "neben",
+    "spielfigur": "Jason",
+    "spoilerstufe": "S1",
+    "status": "plausibel",
+    "quellen": [
+      "C-008"
+    ]
+  },
+  {
+    "id": "M039",
+    "kapitel": 2,
+    "reihenfolge": 1,
+    "titel_en": "What's in the Bag?",
+    "titel_de": "Was ist in der Tasche?",
+    "typ": "haupt",
+    "spielfigur": "Lucia",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-012",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M040",
+    "kapitel": 2,
+    "reihenfolge": 2,
+    "titel_en": "Ambulance Chaser",
+    "titel_de": "Kranke Jagd",
+    "typ": "haupt",
+    "spielfigur": "Lucia",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-012",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M041",
+    "kapitel": 2,
+    "reihenfolge": 3,
+    "titel_en": "Just Moved In",
+    "titel_de": "Frisch eingezogen",
+    "typ": "haupt",
+    "spielfigur": "Lucia",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-012",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M042",
+    "kapitel": 2,
+    "reihenfolge": 4,
+    "titel_en": "Girls' Trip",
+    "titel_de": "Girls-Trip",
+    "typ": "haupt",
+    "spielfigur": "Lucia",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-012",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M043",
+    "kapitel": 2,
+    "reihenfolge": 5,
+    "titel_en": "Moses",
+    "titel_de": "Moses",
+    "typ": "haupt",
+    "spielfigur": "Lucia",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-012",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M044",
+    "kapitel": 2,
+    "reihenfolge": 6,
+    "titel_en": "Daily Driver",
+    "titel_de": "Alltagsfahrer",
+    "typ": "haupt",
+    "spielfigur": "Lucia",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-012",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M045",
+    "kapitel": 2,
+    "reihenfolge": 7,
+    "titel_en": "Slam Dunk",
+    "titel_de": "Gott sei Dunk",
+    "typ": "haupt",
+    "spielfigur": "Lucia",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-012",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M046",
+    "kapitel": 2,
+    "reihenfolge": 8,
+    "titel_en": "Breakfast Run",
+    "titel_de": "Frühstück to Go",
+    "typ": "haupt",
+    "spielfigur": "Lucia",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-012",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M047",
+    "kapitel": 2,
+    "reihenfolge": 9,
+    "titel_en": "Coffee Break",
+    "titel_de": "Kaffeepause",
+    "typ": "haupt",
+    "spielfigur": "beide",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-012",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M048",
+    "kapitel": 2,
+    "reihenfolge": 10,
+    "titel_en": "Afternoon Delight",
+    "titel_de": "Afternoon Delight",
+    "typ": "haupt",
+    "spielfigur": "beide",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-012",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M049",
+    "kapitel": 2,
+    "reihenfolge": 11,
+    "titel_en": "Checking Out",
+    "titel_de": "Check-out",
+    "typ": "haupt",
+    "spielfigur": "beide",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-012",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M050",
+    "kapitel": 2,
+    "reihenfolge": 12,
+    "titel_en": "Play Nurse",
+    "titel_de": null,
+    "typ": "haupt",
+    "spielfigur": "Lucia",
+    "spoilerstufe": "S1",
+    "status": "plausibel",
+    "quellen": [
+      "C-008",
+      "C-011"
+    ]
+  },
+  {
+    "id": "M051",
+    "kapitel": 2,
+    "reihenfolge": 13,
+    "titel_en": "Overnight Charges",
+    "titel_de": null,
+    "typ": "haupt",
+    "spielfigur": "Lucia",
+    "spoilerstufe": "S1",
+    "status": "plausibel",
+    "quellen": [
+      "C-008",
+      "C-011"
+    ]
+  },
+  {
+    "id": "M052",
+    "kapitel": 2,
+    "reihenfolge": 14,
+    "titel_en": "New Look",
+    "titel_de": null,
+    "typ": "haupt",
+    "spielfigur": "Lucia",
+    "spoilerstufe": "S1",
+    "status": "plausibel",
+    "quellen": [
+      "C-008",
+      "C-011"
+    ]
+  },
+  {
+    "id": "M053",
+    "kapitel": 2,
+    "reihenfolge": 15,
+    "titel_en": "How Do I Look?",
+    "titel_de": null,
+    "typ": "haupt",
+    "spielfigur": "Lucia",
+    "spoilerstufe": "S1",
+    "status": "plausibel",
+    "quellen": [
+      "C-008",
+      "C-011"
+    ]
+  },
+  {
+    "id": "M054",
+    "kapitel": 2,
+    "reihenfolge": 16,
+    "titel_en": "Got Pills?",
+    "titel_de": null,
+    "typ": "haupt",
+    "spielfigur": "Lucia",
+    "spoilerstufe": "S1",
+    "status": "plausibel",
+    "quellen": [
+      "C-008",
+      "C-011"
+    ]
+  },
+  {
+    "id": "M055",
+    "kapitel": 2,
+    "reihenfolge": 17,
+    "titel_en": "Behind on Payments",
+    "titel_de": null,
+    "typ": "haupt",
+    "spielfigur": "Lucia",
+    "spoilerstufe": "S1",
+    "status": "plausibel",
+    "quellen": [
+      "C-008",
+      "C-011"
+    ]
+  },
+  {
+    "id": "M056",
+    "kapitel": 2,
+    "reihenfolge": 18,
+    "titel_en": "Prepare for Vice City",
+    "titel_de": null,
+    "typ": "haupt",
+    "spielfigur": "beide",
+    "spoilerstufe": "S1",
+    "status": "plausibel",
+    "quellen": [
+      "C-008",
+      "C-011"
+    ]
+  },
+  {
+    "id": "M057",
+    "kapitel": 2,
+    "reihenfolge": 19,
+    "titel_en": "Pick Up a Gun",
+    "titel_de": null,
+    "typ": "neben",
+    "spielfigur": "Lucia",
+    "spoilerstufe": "S1",
+    "status": "plausibel",
+    "quellen": [
+      "C-008"
+    ]
+  },
+  {
+    "id": "M058",
+    "kapitel": 2,
+    "reihenfolge": 20,
+    "titel_en": "Thrillbillies",
+    "titel_de": null,
+    "typ": "neben",
+    "spielfigur": "beide",
+    "spoilerstufe": "S1",
+    "status": "plausibel",
+    "quellen": [
+      "C-008",
+      "C-012"
+    ]
+  },
+  {
+    "id": "M059",
+    "kapitel": 2,
+    "reihenfolge": 21,
+    "titel_en": "Twist Wrist, Smash, Grab",
+    "titel_de": null,
+    "typ": "neben",
+    "spielfigur": "beide",
+    "spoilerstufe": "S1",
+    "status": "plausibel",
+    "quellen": [
+      "C-008",
+      "C-012"
+    ]
+  },
+  {
+    "id": "M060",
+    "kapitel": 2,
+    "reihenfolge": 22,
+    "titel_en": "Hit Avery Pawn",
+    "titel_de": null,
+    "typ": "neben",
+    "spielfigur": "beide",
+    "spoilerstufe": "S1",
+    "status": "plausibel",
+    "quellen": [
+      "C-008"
+    ]
+  },
+  {
+    "id": "M061",
+    "kapitel": 2,
+    "reihenfolge": 23,
+    "titel_en": "Hit Kingpin Bowling",
+    "titel_de": null,
+    "typ": "neben",
+    "spielfigur": "beide",
+    "spoilerstufe": "S1",
+    "status": "plausibel",
+    "quellen": [
+      "C-008"
+    ]
+  },
+  {
+    "id": "M062",
+    "kapitel": 2,
+    "reihenfolge": 24,
+    "titel_en": "Impounded Vehicle",
+    "titel_de": null,
+    "typ": "neben",
+    "spielfigur": "beide",
+    "spoilerstufe": "S1",
+    "status": "plausibel",
+    "quellen": [
+      "C-008"
+    ]
+  },
+  {
+    "id": "M063",
+    "kapitel": 3,
+    "reihenfolge": 1,
+    "titel_en": "Welcome to Vice City",
+    "titel_de": "Welcome to Vice City",
+    "typ": "haupt",
+    "spielfigur": "beide",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-012",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M064",
+    "kapitel": 3,
+    "reihenfolge": 2,
+    "titel_en": "Dealer's Choice",
+    "titel_de": "Dealerempfehlung",
+    "typ": "haupt",
+    "spielfigur": "Jason",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-012",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M065",
+    "kapitel": 3,
+    "reihenfolge": 3,
+    "titel_en": "Meet the Heders",
+    "titel_de": "Triff die Heders",
+    "typ": "haupt",
+    "spielfigur": "beide",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-012",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M066",
+    "kapitel": 3,
+    "reihenfolge": 4,
+    "titel_en": "Dubious Provenance",
+    "titel_de": "Dubiose Herkunft",
+    "typ": "haupt",
+    "spielfigur": "beide",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-012",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M067",
+    "kapitel": 3,
+    "reihenfolge": 5,
+    "titel_en": "Mami Knows Best",
+    "titel_de": "Mami weiß es am besten",
+    "typ": "haupt",
+    "spielfigur": "Lucia",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-012",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M068",
+    "kapitel": 3,
+    "reihenfolge": 6,
+    "titel_en": "South Leonida Real Estate",
+    "titel_de": "South Leonida Real Estate",
+    "typ": "haupt",
+    "spielfigur": "Lucia",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-012",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M069",
+    "kapitel": 3,
+    "reihenfolge": 7,
+    "titel_en": "Tyrone",
+    "titel_de": "Tyrone",
+    "typ": "haupt",
+    "spielfigur": "Jason",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-012",
+      "C-008",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M070",
+    "kapitel": 3,
+    "reihenfolge": 8,
+    "titel_en": "Here, Kitty Kitty",
+    "titel_de": "Hier, Katzi, Katzi!",
+    "typ": "haupt",
+    "spielfigur": "Jason",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-012",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M071",
+    "kapitel": 3,
+    "reihenfolge": 9,
+    "titel_en": "Car Service",
+    "titel_de": "Fahrdienst",
+    "typ": "haupt",
+    "spielfigur": "Lucia",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-012",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M072",
+    "kapitel": 3,
+    "reihenfolge": 10,
+    "titel_en": "Top Billing",
+    "titel_de": "Headliner",
+    "typ": "haupt",
+    "spielfigur": "beide",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-012",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M073",
+    "kapitel": 3,
+    "reihenfolge": 11,
+    "titel_en": "Boobie Time",
+    "titel_de": "Boobie Time",
+    "typ": "haupt",
+    "spielfigur": "Jason",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-012",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M074",
+    "kapitel": 3,
+    "reihenfolge": 12,
+    "titel_en": "First Impressions",
+    "titel_de": "Erste Eindrücke",
+    "typ": "haupt",
+    "spielfigur": "beide",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-012",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M075",
+    "kapitel": 3,
+    "reihenfolge": 13,
+    "titel_en": "Caught Slipping",
+    "titel_de": "Falsche Adresse",
+    "typ": "haupt",
+    "spielfigur": "beide",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-012",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M076",
+    "kapitel": 3,
+    "reihenfolge": 14,
+    "titel_en": "Crosstown Traffic",
+    "titel_de": "Quer durch die Stadt",
+    "typ": "haupt",
+    "spielfigur": "beide",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-012",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M077",
+    "kapitel": 3,
+    "reihenfolge": 15,
+    "titel_en": "Credit Check",
+    "titel_de": "Kreditwürdigkeit",
+    "typ": "haupt",
+    "spielfigur": "beide",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-012",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M078",
+    "kapitel": 3,
+    "reihenfolge": 16,
+    "titel_en": "Steal the Zorruso for Randy",
+    "titel_de": "Stiehl den Zorusso für Randy",
+    "typ": "haupt",
+    "spielfigur": null,
+    "spoilerstufe": "S1",
+    "status": "plausibel",
+    "quellen": [
+      "C-010",
+      "C-014",
+      "C-012"
+    ]
+  },
+  {
+    "id": "M079",
+    "kapitel": 3,
+    "reihenfolge": 17,
+    "titel_en": "Sinfrontera National Bank",
+    "titel_de": "Sinfrontera National Bank",
+    "typ": "haupt",
+    "spielfigur": "beide",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-012",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M080",
+    "kapitel": 3,
+    "reihenfolge": 18,
+    "titel_en": "Security Expert",
+    "titel_de": "Sicherheitsexpertin",
+    "typ": "haupt",
+    "spielfigur": "beide",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-012",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M081",
+    "kapitel": 3,
+    "reihenfolge": 19,
+    "titel_en": "Ride or Die",
+    "titel_de": "Ride or die",
+    "typ": "haupt",
+    "spielfigur": "Jason",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-012",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M082",
+    "kapitel": 3,
+    "reihenfolge": 20,
+    "titel_en": "Company Property",
+    "titel_de": "Firmeneigentum",
+    "typ": "haupt",
+    "spielfigur": "beide",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-012",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M083",
+    "kapitel": 3,
+    "reihenfolge": 21,
+    "titel_en": "The Missing Link",
+    "titel_de": "Das fehlende Puzzleteil",
+    "typ": "haupt",
+    "spielfigur": "beide",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-012",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M084",
+    "kapitel": 3,
+    "reihenfolge": 22,
+    "titel_en": "Safe Word",
+    "titel_de": "Safeword",
+    "typ": "haupt",
+    "spielfigur": "beide",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-012",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M085",
+    "kapitel": 3,
+    "reihenfolge": 23,
+    "titel_en": "Cooties",
+    "titel_de": "Cooties",
+    "typ": "haupt",
+    "spielfigur": "Lucia",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-012",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M086",
+    "kapitel": 3,
+    "reihenfolge": 24,
+    "titel_en": "Bricked Up",
+    "titel_de": "Ziegelhagel",
+    "typ": "haupt",
+    "spielfigur": "beide",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-012",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M087",
+    "kapitel": 3,
+    "reihenfolge": 25,
+    "titel_en": "Hidden Charges",
+    "titel_de": "Explosiver Empfang",
+    "typ": "haupt",
+    "spielfigur": "beide",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-012",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M088",
+    "kapitel": 3,
+    "reihenfolge": 26,
+    "titel_en": "The Cartel Heist",
+    "titel_de": "Der Kartellüberfall",
+    "typ": "haupt",
+    "spielfigur": "beide",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-012",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M089",
+    "kapitel": 3,
+    "reihenfolge": 27,
+    "titel_en": "Send Money to Lorena",
+    "titel_de": null,
+    "typ": "haupt",
+    "spielfigur": null,
+    "spoilerstufe": "S1",
+    "status": "plausibel",
+    "quellen": [
+      "C-008",
+      "C-011"
+    ]
+  },
+  {
+    "id": "M090",
+    "kapitel": 3,
+    "reihenfolge": 28,
+    "titel_en": "Send More Money to Lorena",
+    "titel_de": null,
+    "typ": "haupt",
+    "spielfigur": null,
+    "spoilerstufe": "S1",
+    "status": "plausibel",
+    "quellen": [
+      "C-008",
+      "C-011"
+    ]
+  },
+  {
+    "id": "M091",
+    "kapitel": 3,
+    "reihenfolge": 29,
+    "titel_en": "Yasmani's Jewelry Jobs",
+    "titel_de": null,
+    "typ": "haupt",
+    "spielfigur": "beide",
+    "spoilerstufe": "S1",
+    "status": "plausibel",
+    "quellen": [
+      "C-008",
+      "C-011"
+    ]
+  },
+  {
+    "id": "M092",
+    "kapitel": 3,
+    "reihenfolge": 30,
+    "titel_en": "Clonin' Keys, Makin' Gs",
+    "titel_de": null,
+    "typ": "haupt",
+    "spielfigur": "beide",
+    "spoilerstufe": "S1",
+    "status": "plausibel",
+    "quellen": [
+      "C-008",
+      "C-011"
+    ]
+  },
+  {
+    "id": "M093",
+    "kapitel": 3,
+    "reihenfolge": 31,
+    "titel_en": "Heist Planning",
+    "titel_de": null,
+    "typ": "haupt",
+    "spielfigur": null,
+    "spoilerstufe": "S1",
+    "status": "plausibel",
+    "quellen": [
+      "C-008",
+      "C-011"
+    ]
+  },
+  {
+    "id": "M094",
+    "kapitel": 3,
+    "reihenfolge": 32,
+    "titel_en": "Encrypted Hard Drive",
+    "titel_de": null,
+    "typ": "haupt",
+    "spielfigur": null,
+    "spoilerstufe": "S1",
+    "status": "unbestaetigt",
+    "quellen": [
+      "C-011"
+    ]
+  },
+  {
+    "id": "M095",
+    "kapitel": 3,
+    "reihenfolge": 33,
+    "titel_en": "Raul's Next Job",
+    "titel_de": null,
+    "typ": "haupt",
+    "spielfigur": null,
+    "spoilerstufe": "S1",
+    "status": "unbestaetigt",
+    "quellen": [
+      "C-011"
+    ]
+  },
+  {
+    "id": "M096",
+    "kapitel": 3,
+    "reihenfolge": 34,
+    "titel_en": "Kitty Litter Labs",
+    "titel_de": null,
+    "typ": "neben",
+    "spielfigur": null,
+    "spoilerstufe": "S1",
+    "status": "plausibel",
+    "quellen": [
+      "C-012"
+    ]
+  },
+  {
+    "id": "M097",
+    "kapitel": 3,
+    "reihenfolge": 35,
+    "titel_en": "Spin on This",
+    "titel_de": null,
+    "typ": "neben",
+    "spielfigur": null,
+    "spoilerstufe": "S1",
+    "status": "plausibel",
+    "quellen": [
+      "C-012",
+      "C-022"
+    ]
+  },
+  {
+    "id": "M098",
+    "kapitel": 3,
+    "reihenfolge": 36,
+    "titel_en": "Get Your Wheels",
+    "titel_de": null,
+    "typ": "neben",
+    "spielfigur": null,
+    "spoilerstufe": "S1",
+    "status": "plausibel",
+    "quellen": [
+      "C-008"
+    ]
+  },
+  {
+    "id": "M099",
+    "kapitel": 3,
+    "reihenfolge": 37,
+    "titel_en": "Race Against Yago",
+    "titel_de": null,
+    "typ": "neben",
+    "spielfigur": "Jason",
+    "spoilerstufe": "S1",
+    "status": "plausibel",
+    "quellen": [
+      "C-008"
+    ]
+  },
+  {
+    "id": "M100",
+    "kapitel": 3,
+    "reihenfolge": 38,
+    "titel_en": "Pick Up Shayna",
+    "titel_de": null,
+    "typ": "neben",
+    "spielfigur": "Lucia",
+    "spoilerstufe": "S1",
+    "status": "plausibel",
+    "quellen": [
+      "C-008"
+    ]
+  },
+  {
+    "id": "M101",
+    "kapitel": 4,
+    "reihenfolge": 1,
+    "titel_en": "Ocean Beach",
+    "titel_de": "Ocean Beach",
+    "typ": "haupt",
+    "spielfigur": "beide",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M102",
+    "kapitel": 4,
+    "reihenfolge": 2,
+    "titel_en": "Another Life",
+    "titel_de": "Ein anderes Leben",
+    "typ": "haupt",
+    "spielfigur": "Lucia",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M103",
+    "kapitel": 4,
+    "reihenfolge": 3,
+    "titel_en": "Company Cars",
+    "titel_de": "Firmenwagen",
+    "typ": "haupt",
+    "spielfigur": "beide",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M104",
+    "kapitel": 4,
+    "reihenfolge": 4,
+    "titel_en": "Lawyer Up",
+    "titel_de": "Ein Anwalt muss her",
+    "typ": "haupt",
+    "spielfigur": "beide",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M105",
+    "kapitel": 4,
+    "reihenfolge": 5,
+    "titel_en": "Party Hard",
+    "titel_de": "Wilde Party",
+    "typ": "haupt",
+    "spielfigur": "beide",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M106",
+    "kapitel": 4,
+    "reihenfolge": 6,
+    "titel_en": "Heavy Lifting",
+    "titel_de": "Schwerstarbeit",
+    "typ": "haupt",
+    "spielfigur": "beide",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-008",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M107",
+    "kapitel": 4,
+    "reihenfolge": 7,
+    "titel_en": "Photo/Shoot",
+    "titel_de": "Photo/Shoot",
+    "typ": "haupt",
+    "spielfigur": "beide",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M108",
+    "kapitel": 4,
+    "reihenfolge": 8,
+    "titel_en": "Making Gainz",
+    "titel_de": "Alles für die Gainz",
+    "typ": "haupt",
+    "spielfigur": "Lucia",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M109",
+    "kapitel": 4,
+    "reihenfolge": 9,
+    "titel_en": "Watch It",
+    "titel_de": "Die Uhr tickt",
+    "typ": "haupt",
+    "spielfigur": "Jason",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M110",
+    "kapitel": 4,
+    "reihenfolge": 10,
+    "titel_en": "Cash Injections",
+    "titel_de": "Geldspritzen",
+    "typ": "haupt",
+    "spielfigur": "Lucia",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M111",
+    "kapitel": 4,
+    "reihenfolge": 11,
+    "titel_en": "Amateur Hour",
+    "titel_de": "Schäferstündchen",
+    "typ": "haupt",
+    "spielfigur": "Lucia",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M112",
+    "kapitel": 4,
+    "reihenfolge": 12,
+    "titel_en": "Dirty Work",
+    "titel_de": "Schmutzige Spielchen",
+    "typ": "haupt",
+    "spielfigur": "beide",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M113",
+    "kapitel": 4,
+    "reihenfolge": 13,
+    "titel_en": "Too Much Baggage",
+    "titel_de": "Übergepäck",
+    "typ": "haupt",
+    "spielfigur": "Jason",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M114",
+    "kapitel": 4,
+    "reihenfolge": 14,
+    "titel_en": "Adventures in Babysitting",
+    "titel_de": "Nanny für eine Nacht",
+    "typ": "haupt",
+    "spielfigur": "Jason",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M115",
+    "kapitel": 4,
+    "reihenfolge": 15,
+    "titel_en": "Fresh Evidence",
+    "titel_de": "Beweissicherung",
+    "typ": "haupt",
+    "spielfigur": "Jason",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M116",
+    "kapitel": 4,
+    "reihenfolge": 16,
+    "titel_en": "Power Play",
+    "titel_de": "Machtspiel",
+    "typ": "haupt",
+    "spielfigur": "beide",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M117",
+    "kapitel": 4,
+    "reihenfolge": 17,
+    "titel_en": "Child's Play",
+    "titel_de": "Kinderspiel",
+    "typ": "haupt",
+    "spielfigur": "beide",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M118",
+    "kapitel": 4,
+    "reihenfolge": 18,
+    "titel_en": "Headliners",
+    "titel_de": "Headliners",
+    "typ": "haupt",
+    "spielfigur": "beide",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M119",
+    "kapitel": 4,
+    "reihenfolge": 19,
+    "titel_en": "Close Surveillance",
+    "titel_de": "Unter Beobachtung",
+    "typ": "haupt",
+    "spielfigur": "Jason",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M120",
+    "kapitel": 4,
+    "reihenfolge": 20,
+    "titel_en": "Delivery Method",
+    "titel_de": "Projekt Lieferung",
+    "typ": "haupt",
+    "spielfigur": "Jason",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M121",
+    "kapitel": 4,
+    "reihenfolge": 21,
+    "titel_en": "Team Building",
+    "titel_de": "Teambuilding",
+    "typ": "haupt",
+    "spielfigur": "Lucia",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M122",
+    "kapitel": 4,
+    "reihenfolge": 22,
+    "titel_en": "Fully Catered",
+    "titel_de": "Cateringservice",
+    "typ": "haupt",
+    "spielfigur": "beide",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M123",
+    "kapitel": 4,
+    "reihenfolge": 23,
+    "titel_en": "VCIA Takedown",
+    "titel_de": "VCIA-Showdown",
+    "typ": "haupt",
+    "spielfigur": "beide",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M124",
+    "kapitel": 4,
+    "reihenfolge": 24,
+    "titel_en": "Sunset",
+    "titel_de": "Sonnenuntergang",
+    "typ": "haupt",
+    "spielfigur": "beide",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M125",
+    "kapitel": 4,
+    "reihenfolge": 25,
+    "titel_en": "Starting From Zero",
+    "titel_de": null,
+    "typ": "haupt",
+    "spielfigur": "beide",
+    "spoilerstufe": "S2",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-008",
+      "C-011"
+    ]
+  },
+  {
+    "id": "M126",
+    "kapitel": 4,
+    "reihenfolge": 26,
+    "titel_en": "Pool Day",
+    "titel_de": null,
+    "typ": "haupt",
+    "spielfigur": "beide",
+    "spoilerstufe": "S1",
+    "status": "plausibel",
+    "quellen": [
+      "C-008",
+      "C-011"
+    ]
+  },
+  {
+    "id": "M127",
+    "kapitel": 4,
+    "reihenfolge": 27,
+    "titel_en": "Tie Up Loose Ends",
+    "titel_de": null,
+    "typ": "haupt",
+    "spielfigur": "beide",
+    "spoilerstufe": "S1",
+    "status": "plausibel",
+    "quellen": [
+      "C-008",
+      "C-011"
+    ]
+  },
+  {
+    "id": "M128",
+    "kapitel": 4,
+    "reihenfolge": 28,
+    "titel_en": "It's a Date!",
+    "titel_de": null,
+    "typ": "neben",
+    "spielfigur": "beide",
+    "spoilerstufe": "S1",
+    "status": "plausibel",
+    "quellen": [
+      "C-008",
+      "C-011"
+    ]
+  },
+  {
+    "id": "M129",
+    "kapitel": 4,
+    "reihenfolge": 29,
+    "titel_en": "Attend Eddie Acosta's Party",
+    "titel_de": null,
+    "typ": "neben",
+    "spielfigur": "beide",
+    "spoilerstufe": "S1",
+    "status": "plausibel",
+    "quellen": [
+      "C-008"
+    ]
+  },
+  {
+    "id": "M130",
+    "kapitel": 4,
+    "reihenfolge": 30,
+    "titel_en": "Bad Driver!",
+    "titel_de": null,
+    "typ": "neben",
+    "spielfigur": null,
+    "spoilerstufe": "S1",
+    "status": "plausibel",
+    "quellen": [
+      "C-008"
+    ]
+  },
+  {
+    "id": "M131",
+    "kapitel": 4,
+    "reihenfolge": 31,
+    "titel_en": "That's Where the Money Is…",
+    "titel_de": null,
+    "typ": "neben",
+    "spielfigur": "beide",
+    "spoilerstufe": "S1",
+    "status": "plausibel",
+    "quellen": [
+      "C-008"
+    ]
+  },
+  {
+    "id": "M132",
+    "kapitel": 4,
+    "reihenfolge": 32,
+    "titel_en": "Pay Abe's Fee",
+    "titel_de": null,
+    "typ": "haupt",
+    "spielfigur": null,
+    "spoilerstufe": "S1",
+    "status": "unbestaetigt",
+    "quellen": [
+      "C-011"
+    ]
+  },
+  {
+    "id": "M133",
+    "kapitel": 4,
+    "reihenfolge": 33,
+    "titel_en": "Blood Sweat and Gear",
+    "titel_de": null,
+    "typ": "haupt",
+    "spielfigur": null,
+    "spoilerstufe": "S1",
+    "status": "unbestaetigt",
+    "quellen": [
+      "C-011"
+    ]
+  },
+  {
+    "id": "M134",
+    "kapitel": 4,
+    "reihenfolge": 34,
+    "titel_en": "Call Nate",
+    "titel_de": null,
+    "typ": "haupt",
+    "spielfigur": null,
+    "spoilerstufe": "S1",
+    "status": "unbestaetigt",
+    "quellen": [
+      "C-011"
+    ]
+  },
+  {
+    "id": "M135",
+    "kapitel": 4,
+    "reihenfolge": 35,
+    "titel_en": "Nate Will Be in Touch",
+    "titel_de": null,
+    "typ": "haupt",
+    "spielfigur": null,
+    "spoilerstufe": "S1",
+    "status": "unbestaetigt",
+    "quellen": [
+      "C-011"
+    ]
+  },
+  {
+    "id": "M136",
+    "kapitel": 4,
+    "reihenfolge": 36,
+    "titel_en": "Rafa's Kidnapping",
+    "titel_de": null,
+    "typ": "haupt",
+    "spielfigur": null,
+    "spoilerstufe": "S2",
+    "status": "unbestaetigt",
+    "quellen": [
+      "C-011"
+    ]
+  },
+  {
+    "id": "M137",
+    "kapitel": 4,
+    "reihenfolge": 37,
+    "titel_en": "Heist Plans in Place",
+    "titel_de": null,
+    "typ": "haupt",
+    "spielfigur": null,
+    "spoilerstufe": "S1",
+    "status": "unbestaetigt",
+    "quellen": [
+      "C-011"
+    ]
+  },
+  {
+    "id": "M138",
+    "kapitel": 4,
+    "reihenfolge": 38,
+    "titel_en": "Call Valentina Back",
+    "titel_de": null,
+    "typ": "haupt",
+    "spielfigur": null,
+    "spoilerstufe": "S1",
+    "status": "unbestaetigt",
+    "quellen": [
+      "C-011"
+    ]
+  },
+  {
+    "id": "M139",
+    "kapitel": 5,
+    "reihenfolge": 1,
+    "titel_en": "Bird in the Hand",
+    "titel_de": "Ausgeflogen",
+    "typ": "haupt",
+    "spielfigur": "beide",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M140",
+    "kapitel": 5,
+    "reihenfolge": 2,
+    "titel_en": "Taking Liberties",
+    "titel_de": "Ein schmutziges Geschäft",
+    "typ": "haupt",
+    "spielfigur": "beide",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M141",
+    "kapitel": 5,
+    "reihenfolge": 3,
+    "titel_en": "VC Baby",
+    "titel_de": "VC Baby",
+    "typ": "haupt",
+    "spielfigur": "beide",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M142",
+    "kapitel": 5,
+    "reihenfolge": 4,
+    "titel_en": "Doggie Bag",
+    "titel_de": "Auf den Hund gekommen",
+    "typ": "haupt",
+    "spielfigur": "beide",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M143",
+    "kapitel": 5,
+    "reihenfolge": 5,
+    "titel_en": "Operation Savage Glory",
+    "titel_de": "Operation: Savage Glory",
+    "typ": "haupt",
+    "spielfigur": "beide",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M144",
+    "kapitel": 5,
+    "reihenfolge": 6,
+    "titel_en": "Protective Custody",
+    "titel_de": "Schutzhaft",
+    "typ": "haupt",
+    "spielfigur": "beide",
+    "spoilerstufe": "S1",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-010",
+      "C-008",
+      "C-011",
+      "C-014"
+    ]
+  },
+  {
+    "id": "M145",
+    "kapitel": 5,
+    "reihenfolge": 7,
+    "titel_en": "The End of the Road",
+    "titel_de": null,
+    "typ": "haupt",
+    "spielfigur": "beide",
+    "spoilerstufe": "S2",
+    "status": "bestaetigt",
+    "quellen": [
+      "C-008",
+      "C-011"
+    ]
+  },
+  {
+    "id": "M146",
+    "kapitel": 5,
+    "reihenfolge": 8,
+    "titel_en": "Honest Abe",
+    "titel_de": null,
+    "typ": "haupt",
+    "spielfigur": "beide",
+    "spoilerstufe": "S1",
+    "status": "plausibel",
+    "quellen": [
+      "C-008",
+      "C-011"
+    ]
+  },
+  {
+    "id": "M147",
+    "kapitel": 5,
+    "reihenfolge": 9,
+    "titel_en": "Unfinished Business",
+    "titel_de": null,
+    "typ": "haupt",
+    "spielfigur": "beide",
+    "spoilerstufe": "S1",
+    "status": "plausibel",
+    "quellen": [
+      "C-008",
+      "C-011"
+    ]
+  },
+  {
+    "id": "M148",
+    "kapitel": 5,
+    "reihenfolge": 10,
+    "titel_en": "Pay Abe's Fee",
+    "titel_de": null,
+    "typ": "haupt",
+    "spielfigur": null,
+    "spoilerstufe": "S1",
+    "status": "unbestaetigt",
+    "quellen": [
+      "C-011"
+    ]
+  }
+]

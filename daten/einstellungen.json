@@ -1,0 +1,1970 @@
+[
+  {
+    "menue": "Control Scheme",
+    "einstellung": "Control Scheme",
+    "optionen": [
+      "Default",
+      "Classic",
+      "Left-Handed"
+    ],
+    "standard": "Default",
+    "empfehlung_anfaenger": "Default (Classic, falls Rennen per L3 stört)",
+    "status": "bestaetigt",
+    "quellen": [
+      "A-006",
+      "A-008",
+      "A-010"
+    ]
+  },
+  {
+    "menue": "Controller",
+    "einstellung": "Horizontal Look Sensitivity",
+    "optionen": [
+      "0-14"
+    ],
+    "standard": "7",
+    "empfehlung_anfaenger": "7-8",
+    "status": "plausibel",
+    "quellen": [
+      "A-009",
+      "A-010",
+      "A-011"
+    ]
+  },
+  {
+    "menue": "Controller",
+    "einstellung": "Vertical Look Sensitivity",
+    "optionen": [
+      "0-14"
+    ],
+    "standard": "7",
+    "empfehlung_anfaenger": "7",
+    "status": "plausibel",
+    "quellen": [
+      "A-009",
+      "A-010",
+      "A-011"
+    ]
+  },
+  {
+    "menue": "Controller",
+    "einstellung": "Horizontal Aim Sensitivity",
+    "optionen": [],
+    "standard": "7",
+    "empfehlung_anfaenger": "5-6",
+    "status": "plausibel",
+    "quellen": [
+      "A-009",
+      "A-011",
+      "A-012"
+    ]
+  },
+  {
+    "menue": "Controller",
+    "einstellung": "Vertical Aim Sensitivity",
+    "optionen": [],
+    "standard": "7",
+    "empfehlung_anfaenger": "5-6",
+    "status": "plausibel",
+    "quellen": [
+      "A-009",
+      "A-011",
+      "A-012"
+    ]
+  },
+  {
+    "menue": "Controller",
+    "einstellung": "Look Acceleration",
+    "optionen": [],
+    "standard": "7",
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-009"
+    ]
+  },
+  {
+    "menue": "Controller",
+    "einstellung": "Aim Acceleration",
+    "optionen": [],
+    "standard": "7",
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-009"
+    ]
+  },
+  {
+    "menue": "Controller",
+    "einstellung": "Aim Response Curve",
+    "optionen": [
+      "Standard",
+      "Linear",
+      "Precision",
+      "Aggressive"
+    ],
+    "standard": "Standard",
+    "empfehlung_anfaenger": "Standard",
+    "status": "bestaetigt",
+    "quellen": [
+      "A-009",
+      "A-010",
+      "A-012"
+    ]
+  },
+  {
+    "menue": "Controller",
+    "einstellung": "Inverted Controls: Look",
+    "optionen": [
+      "Default",
+      "Vertical",
+      "Horizontal",
+      "Both"
+    ],
+    "standard": "Default",
+    "empfehlung_anfaenger": "Default",
+    "status": "plausibel",
+    "quellen": [
+      "A-010"
+    ]
+  },
+  {
+    "menue": "Controller",
+    "einstellung": "Inverted Controls: Movement",
+    "optionen": [],
+    "standard": "Default",
+    "empfehlung_anfaenger": "Default",
+    "status": "plausibel",
+    "quellen": [
+      "A-008",
+      "A-010"
+    ]
+  },
+  {
+    "menue": "Controller",
+    "einstellung": "Inverted Controls: 3D Map Rotation",
+    "optionen": [],
+    "standard": "Default",
+    "empfehlung_anfaenger": "Default",
+    "status": "plausibel",
+    "quellen": [
+      "A-008",
+      "A-010"
+    ]
+  },
+  {
+    "menue": "Controller",
+    "einstellung": "Inverted Controls: Aircraft Movement",
+    "optionen": [
+      "On",
+      "Off"
+    ],
+    "standard": "On",
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-009"
+    ]
+  },
+  {
+    "menue": "Controller",
+    "einstellung": "Vibration & Haptics Strength",
+    "optionen": [
+      "0-10"
+    ],
+    "standard": "10",
+    "empfehlung_anfaenger": "10 oder 7-8",
+    "status": "plausibel",
+    "quellen": [
+      "A-009",
+      "A-010"
+    ]
+  },
+  {
+    "menue": "Controller",
+    "einstellung": "Deadzone (Left Stick)",
+    "optionen": [
+      "0-10"
+    ],
+    "standard": null,
+    "empfehlung_anfaenger": "Standard lassen",
+    "status": "plausibel",
+    "quellen": [
+      "A-009",
+      "A-010"
+    ]
+  },
+  {
+    "menue": "Controller",
+    "einstellung": "Deadzone (Right Stick)",
+    "optionen": [
+      "0-10"
+    ],
+    "standard": null,
+    "empfehlung_anfaenger": "Standard lassen",
+    "status": "plausibel",
+    "quellen": [
+      "A-009",
+      "A-010"
+    ]
+  },
+  {
+    "menue": "Controller",
+    "einstellung": "Adaptive Triggers Resistance",
+    "optionen": [
+      "On",
+      "Off"
+    ],
+    "standard": "On",
+    "empfehlung_anfaenger": "On (bei Fingerermüdung Off)",
+    "status": "plausibel",
+    "quellen": [
+      "A-009",
+      "A-008"
+    ]
+  },
+  {
+    "menue": "Controller",
+    "einstellung": "Adaptive Triggers Vibration",
+    "optionen": [
+      "On",
+      "Off"
+    ],
+    "standard": "On",
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-009",
+      "A-008"
+    ]
+  },
+  {
+    "menue": "Controller",
+    "einstellung": "Adaptive Speed Limiter",
+    "optionen": [
+      "On",
+      "Off"
+    ],
+    "standard": "On",
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-009",
+      "A-008"
+    ]
+  },
+  {
+    "menue": "Controller",
+    "einstellung": "Light-Bar Effect",
+    "optionen": [
+      "On",
+      "Off"
+    ],
+    "standard": "On",
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-009",
+      "A-008"
+    ]
+  },
+  {
+    "menue": "Controller",
+    "einstellung": "Touch Pad Button",
+    "optionen": [
+      "Map",
+      "Camera"
+    ],
+    "standard": "Map",
+    "empfehlung_anfaenger": "Map",
+    "status": "plausibel",
+    "quellen": [
+      "A-009",
+      "A-010"
+    ]
+  },
+  {
+    "menue": "Gameplay",
+    "einstellung": "Targeting",
+    "optionen": [
+      "Lock-On",
+      "Partial",
+      "Free Aim"
+    ],
+    "standard": "Partial",
+    "empfehlung_anfaenger": "Lock-On",
+    "status": "bestaetigt",
+    "quellen": [
+      "A-013",
+      "A-010",
+      "A-012"
+    ]
+  },
+  {
+    "menue": "Gameplay",
+    "einstellung": "Aim Assist Strength",
+    "optionen": [
+      "0-4"
+    ],
+    "standard": "4",
+    "empfehlung_anfaenger": "4",
+    "status": "plausibel",
+    "quellen": [
+      "A-010",
+      "A-012"
+    ]
+  },
+  {
+    "menue": "Gameplay",
+    "einstellung": "Shooting Assist",
+    "optionen": [
+      "On",
+      "Off"
+    ],
+    "standard": null,
+    "empfehlung_anfaenger": "On",
+    "status": "plausibel",
+    "quellen": [
+      "A-010",
+      "A-012"
+    ]
+  },
+  {
+    "menue": "Gameplay",
+    "einstellung": "Drive-By Assist",
+    "optionen": [
+      "On",
+      "Off"
+    ],
+    "standard": null,
+    "empfehlung_anfaenger": "On",
+    "status": "plausibel",
+    "quellen": [
+      "A-010",
+      "A-012"
+    ]
+  },
+  {
+    "menue": "Gameplay",
+    "einstellung": "Quick Draw",
+    "optionen": [
+      "On",
+      "Off"
+    ],
+    "standard": null,
+    "empfehlung_anfaenger": "On",
+    "status": "plausibel",
+    "quellen": [
+      "A-010",
+      "A-012"
+    ]
+  },
+  {
+    "menue": "Gameplay",
+    "einstellung": "Cover Selection",
+    "optionen": [
+      "Camera & Movement",
+      "Movement Only"
+    ],
+    "standard": null,
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-010"
+    ]
+  },
+  {
+    "menue": "Gameplay",
+    "einstellung": "Holster in Vehicle",
+    "optionen": [
+      "Automatic",
+      "Manual"
+    ],
+    "standard": null,
+    "empfehlung_anfaenger": "Automatic",
+    "status": "plausibel",
+    "quellen": [
+      "A-010"
+    ]
+  },
+  {
+    "menue": "Gameplay",
+    "einstellung": "Movement Speed",
+    "optionen": [
+      "Walk",
+      "Fast Walk",
+      "Jog",
+      "Run"
+    ],
+    "standard": null,
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-010"
+    ]
+  },
+  {
+    "menue": "Gameplay",
+    "einstellung": "Combat Movement Speed",
+    "optionen": [
+      "Walk",
+      "Fast Walk",
+      "Jog"
+    ],
+    "standard": null,
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-010"
+    ]
+  },
+  {
+    "menue": "Gameplay",
+    "einstellung": "Stand & Sprint",
+    "optionen": [
+      "On",
+      "Off"
+    ],
+    "standard": "Off",
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-010"
+    ]
+  },
+  {
+    "menue": "Gameplay > Accessibility",
+    "einstellung": "Tap Assist",
+    "optionen": [
+      "Off",
+      "2x",
+      "3x",
+      "4x",
+      "Hold"
+    ],
+    "standard": "Off",
+    "empfehlung_anfaenger": "Hold oder 2x bei Problemen mit schnellem Drücken",
+    "status": "plausibel",
+    "quellen": [
+      "A-010",
+      "A-011",
+      "A-012"
+    ]
+  },
+  {
+    "menue": "Gameplay > Accessibility",
+    "einstellung": "Hold Delay",
+    "optionen": [
+      "0%-250% in 25%-Schritten"
+    ],
+    "standard": null,
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-010",
+      "A-011"
+    ]
+  },
+  {
+    "menue": "Gameplay > Accessibility",
+    "einstellung": "Hold Assist",
+    "optionen": [
+      "Off",
+      "3 Stufen"
+    ],
+    "standard": "Off",
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-010",
+      "A-011"
+    ]
+  },
+  {
+    "menue": "Gameplay > Accessibility",
+    "einstellung": "Focus",
+    "optionen": [
+      "L3+R3",
+      "Touchpad/View-Taste"
+    ],
+    "standard": "L3+R3",
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-010",
+      "A-011"
+    ]
+  },
+  {
+    "menue": "Gameplay > Accessibility",
+    "einstellung": "D-pad Actions",
+    "optionen": [
+      "Hold",
+      "Hold & Release"
+    ],
+    "standard": "Hold",
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-010",
+      "A-011"
+    ]
+  },
+  {
+    "menue": "Gameplay > Accessibility",
+    "einstellung": "Aiming",
+    "optionen": [
+      "Hold",
+      "Press"
+    ],
+    "standard": "Hold",
+    "empfehlung_anfaenger": "Hold (Press bei Handermüdung)",
+    "status": "plausibel",
+    "quellen": [
+      "A-010",
+      "A-011"
+    ]
+  },
+  {
+    "menue": "Gameplay > Accessibility",
+    "einstellung": "Interact",
+    "optionen": [
+      "Hold",
+      "Press"
+    ],
+    "standard": "Hold",
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-010",
+      "A-011"
+    ]
+  },
+  {
+    "menue": "Gameplay > Accessibility",
+    "einstellung": "Loadout",
+    "optionen": [
+      "Hold",
+      "Hold & Release"
+    ],
+    "standard": "Hold",
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-010",
+      "A-011"
+    ]
+  },
+  {
+    "menue": "Gameplay > Accessibility",
+    "einstellung": "Fishing",
+    "optionen": [
+      "Rotate",
+      "Hold",
+      "Pull"
+    ],
+    "standard": null,
+    "empfehlung_anfaenger": "Hold",
+    "status": "plausibel",
+    "quellen": [
+      "A-010",
+      "A-012"
+    ]
+  },
+  {
+    "menue": "Gameplay > Accessibility",
+    "einstellung": "Nitrous",
+    "optionen": [
+      "Hold",
+      "Press"
+    ],
+    "standard": null,
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-010"
+    ]
+  },
+  {
+    "menue": "Gameplay > Accessibility",
+    "einstellung": "Simplified Mini Games",
+    "optionen": [
+      "On",
+      "Off"
+    ],
+    "standard": "Off",
+    "empfehlung_anfaenger": "On bei Frust",
+    "status": "plausibel",
+    "quellen": [
+      "A-010",
+      "A-012"
+    ]
+  },
+  {
+    "menue": "Gameplay > Accessibility",
+    "einstellung": "Auto Drive",
+    "optionen": [
+      "Restricted",
+      "Unrestricted"
+    ],
+    "standard": null,
+    "empfehlung_anfaenger": "Unrestricted",
+    "status": "plausibel",
+    "quellen": [
+      "A-010",
+      "A-015"
+    ]
+  },
+  {
+    "menue": "Gameplay > Accessibility",
+    "einstellung": "Auto Equip Helmet",
+    "optionen": [
+      "On",
+      "Off"
+    ],
+    "standard": "Off",
+    "empfehlung_anfaenger": "On",
+    "status": "plausibel",
+    "quellen": [
+      "A-010"
+    ]
+  },
+  {
+    "menue": "Gameplay > Accessibility",
+    "einstellung": "Accessible Combat",
+    "optionen": [
+      "On",
+      "Off"
+    ],
+    "standard": "Off",
+    "empfehlung_anfaenger": "Off, bei Frust On",
+    "status": "bestaetigt",
+    "quellen": [
+      "A-010",
+      "A-012",
+      "A-014"
+    ]
+  },
+  {
+    "menue": "Gameplay > Accessibility",
+    "einstellung": "Reduced Vehicle Damage",
+    "optionen": [
+      "On",
+      "Off"
+    ],
+    "standard": "Off",
+    "empfehlung_anfaenger": "Off, bei Frust On",
+    "status": "bestaetigt",
+    "quellen": [
+      "A-010",
+      "A-012",
+      "A-014"
+    ]
+  },
+  {
+    "menue": "Display",
+    "einstellung": "HDR Calibration",
+    "optionen": [],
+    "standard": null,
+    "empfehlung_anfaenger": "einmal durchführen",
+    "status": "bestaetigt",
+    "quellen": [
+      "A-010",
+      "A-026"
+    ]
+  },
+  {
+    "menue": "Display",
+    "einstellung": "Safe Zone",
+    "optionen": [],
+    "standard": null,
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-010"
+    ]
+  },
+  {
+    "menue": "Display",
+    "einstellung": "Motion Blur Strength",
+    "optionen": [
+      "Regler (Bereich 0-10 oder 3-10 widersprüchlich)"
+    ],
+    "standard": "3",
+    "empfehlung_anfaenger": "niedrig (0-2)",
+    "status": "plausibel",
+    "quellen": [
+      "A-010",
+      "A-011",
+      "A-026"
+    ]
+  },
+  {
+    "menue": "Display",
+    "einstellung": "Player Status Effects Intensity",
+    "optionen": [
+      "1-5"
+    ],
+    "standard": "5",
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-010",
+      "A-011"
+    ]
+  },
+  {
+    "menue": "Display",
+    "einstellung": "Hit Effects Intensity",
+    "optionen": [
+      "1-5"
+    ],
+    "standard": "5",
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-010",
+      "A-011"
+    ]
+  },
+  {
+    "menue": "Display",
+    "einstellung": "Awareness Effects Intensity",
+    "optionen": [],
+    "standard": "5",
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-011"
+    ]
+  },
+  {
+    "menue": "Display",
+    "einstellung": "Dismemberment",
+    "optionen": [
+      "On",
+      "Off"
+    ],
+    "standard": null,
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-010",
+      "A-011"
+    ]
+  },
+  {
+    "menue": "Display",
+    "einstellung": "Blood & Gore Intensity",
+    "optionen": [
+      "Low",
+      "Medium",
+      "High"
+    ],
+    "standard": "High",
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-010",
+      "A-011"
+    ]
+  },
+  {
+    "menue": "Display",
+    "einstellung": "Flashbang",
+    "optionen": [
+      "Bright",
+      "Dark"
+    ],
+    "standard": "Bright",
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-010",
+      "A-011"
+    ]
+  },
+  {
+    "menue": "Display",
+    "einstellung": "Focus Trail Colorblind Mode",
+    "optionen": [
+      "On",
+      "Off"
+    ],
+    "standard": "Off",
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-010",
+      "A-011"
+    ]
+  },
+  {
+    "menue": "Display",
+    "einstellung": "Brightness Reduction",
+    "optionen": [
+      "On",
+      "Off"
+    ],
+    "standard": "Off",
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-010",
+      "A-011"
+    ]
+  },
+  {
+    "menue": "Display",
+    "einstellung": "High Contrast Shaders",
+    "optionen": [
+      "On",
+      "Off"
+    ],
+    "standard": "Off",
+    "empfehlung_anfaenger": null,
+    "status": "bestaetigt",
+    "quellen": [
+      "A-005",
+      "A-010"
+    ]
+  },
+  {
+    "menue": "Display",
+    "einstellung": "Grafikmodus (Qualität/Performance)",
+    "optionen": [],
+    "standard": null,
+    "empfehlung_anfaenger": null,
+    "status": "widerlegt",
+    "quellen": [
+      "A-017",
+      "A-018"
+    ]
+  },
+  {
+    "menue": "UI",
+    "einstellung": "Language",
+    "optionen": [
+      "Englisch",
+      "Deutsch",
+      "Spanisch (Spanien)",
+      "Spanisch (Mexiko)",
+      "Französisch",
+      "Italienisch",
+      "Polnisch",
+      "Portugiesisch (Brasilien)",
+      "Russisch",
+      "Chinesisch (traditionell)",
+      "Chinesisch (vereinfacht)",
+      "Koreanisch"
+    ],
+    "standard": null,
+    "empfehlung_anfaenger": "Deutsch",
+    "status": "bestaetigt",
+    "quellen": [
+      "A-002",
+      "A-010"
+    ]
+  },
+  {
+    "menue": "UI",
+    "einstellung": "UI Text Size",
+    "optionen": [
+      "Small",
+      "Medium",
+      "Large",
+      "Extra Large"
+    ],
+    "standard": "Small",
+    "empfehlung_anfaenger": "Medium oder Large",
+    "status": "plausibel",
+    "quellen": [
+      "A-010",
+      "A-011",
+      "A-012"
+    ]
+  },
+  {
+    "menue": "UI",
+    "einstellung": "Color Adjustments",
+    "optionen": [
+      "Off",
+      "Protan",
+      "Deutan",
+      "Tritan"
+    ],
+    "standard": "Off",
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-010",
+      "A-011"
+    ]
+  },
+  {
+    "menue": "UI",
+    "einstellung": "Map Blip Size",
+    "optionen": [
+      "Default",
+      "Large"
+    ],
+    "standard": "Default",
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-010",
+      "A-011"
+    ]
+  },
+  {
+    "menue": "UI",
+    "einstellung": "Minimap Blip Size",
+    "optionen": [
+      "Default",
+      "Large"
+    ],
+    "standard": "Default",
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-010",
+      "A-011"
+    ]
+  },
+  {
+    "menue": "UI",
+    "einstellung": "In-World Marker Size",
+    "optionen": [
+      "Default",
+      "Large"
+    ],
+    "standard": "Default",
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-010",
+      "A-011"
+    ]
+  },
+  {
+    "menue": "UI > Subtitles & Captions",
+    "einstellung": "Subtitles",
+    "optionen": [
+      "Off",
+      "Mission Only",
+      "On"
+    ],
+    "standard": "Off",
+    "empfehlung_anfaenger": "On",
+    "status": "plausibel",
+    "quellen": [
+      "A-010",
+      "A-011"
+    ]
+  },
+  {
+    "menue": "UI > Subtitles & Captions",
+    "einstellung": "Closed Captions",
+    "optionen": [
+      "Off",
+      "Non-Speech",
+      "Environment",
+      "On"
+    ],
+    "standard": "Off",
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-010",
+      "A-011"
+    ]
+  },
+  {
+    "menue": "UI > Subtitles & Captions",
+    "einstellung": "Size",
+    "optionen": [
+      "Small",
+      "Medium",
+      "Large"
+    ],
+    "standard": null,
+    "empfehlung_anfaenger": "Large",
+    "status": "plausibel",
+    "quellen": [
+      "A-010",
+      "A-011"
+    ]
+  },
+  {
+    "menue": "UI > Subtitles & Captions",
+    "einstellung": "Speaker Names",
+    "optionen": [
+      "On",
+      "Off"
+    ],
+    "standard": "Off",
+    "empfehlung_anfaenger": "On",
+    "status": "plausibel",
+    "quellen": [
+      "A-010",
+      "A-011",
+      "A-012"
+    ]
+  },
+  {
+    "menue": "UI > Subtitles & Captions",
+    "einstellung": "Background",
+    "optionen": [
+      "Off",
+      "Transparent",
+      "Solid"
+    ],
+    "standard": "Off",
+    "empfehlung_anfaenger": "Solid",
+    "status": "plausibel",
+    "quellen": [
+      "A-010",
+      "A-011",
+      "A-012"
+    ]
+  },
+  {
+    "menue": "UI > Navigation",
+    "einstellung": "Minimap",
+    "optionen": [
+      "On",
+      "Dynamic",
+      "Off"
+    ],
+    "standard": null,
+    "empfehlung_anfaenger": "On",
+    "status": "plausibel",
+    "quellen": [
+      "A-010",
+      "A-012"
+    ]
+  },
+  {
+    "menue": "UI > Navigation",
+    "einstellung": "Compass",
+    "optionen": [
+      "On",
+      "Dynamic",
+      "Off"
+    ],
+    "standard": null,
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-010"
+    ]
+  },
+  {
+    "menue": "UI > Navigation",
+    "einstellung": "GPS Turn Indicators",
+    "optionen": [
+      "On",
+      "Highways",
+      "Off"
+    ],
+    "standard": null,
+    "empfehlung_anfaenger": "On",
+    "status": "plausibel",
+    "quellen": [
+      "A-010"
+    ]
+  },
+  {
+    "menue": "UI > Navigation",
+    "einstellung": "In-World Markers",
+    "optionen": [
+      "On",
+      "Off",
+      "Objectives"
+    ],
+    "standard": null,
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-010"
+    ]
+  },
+  {
+    "menue": "UI > Navigation",
+    "einstellung": "Door Markers",
+    "optionen": [
+      "On",
+      "Dynamic",
+      "Off"
+    ],
+    "standard": null,
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-010"
+    ]
+  },
+  {
+    "menue": "UI > Navigation",
+    "einstellung": "Interaction Markers",
+    "optionen": [
+      "On",
+      "Off"
+    ],
+    "standard": null,
+    "empfehlung_anfaenger": "On",
+    "status": "plausibel",
+    "quellen": [
+      "A-010",
+      "A-012"
+    ]
+  },
+  {
+    "menue": "UI > Reticle",
+    "einstellung": "Persistent Center Dot",
+    "optionen": [
+      "On",
+      "Off"
+    ],
+    "standard": "Off",
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-010",
+      "A-011"
+    ]
+  },
+  {
+    "menue": "UI > Reticle",
+    "einstellung": "Reticle Hit Markers",
+    "optionen": [
+      "On",
+      "Off"
+    ],
+    "standard": null,
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-010"
+    ]
+  },
+  {
+    "menue": "UI > Reticle",
+    "einstellung": "Reticle Size",
+    "optionen": [
+      "Default",
+      "Large"
+    ],
+    "standard": null,
+    "empfehlung_anfaenger": "Large",
+    "status": "plausibel",
+    "quellen": [
+      "A-010"
+    ]
+  },
+  {
+    "menue": "UI > Reticle",
+    "einstellung": "Reticle Shape",
+    "optionen": [
+      "Complex",
+      "Simple",
+      "Dot",
+      "None"
+    ],
+    "standard": null,
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-010"
+    ]
+  },
+  {
+    "menue": "UI > Reticle",
+    "einstellung": "Equipped Reticle Visibility",
+    "optionen": [
+      "1-10"
+    ],
+    "standard": null,
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-010"
+    ]
+  },
+  {
+    "menue": "UI > Reticle",
+    "einstellung": "Aiming Reticle Visibility",
+    "optionen": [
+      "1-10"
+    ],
+    "standard": null,
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-010"
+    ]
+  },
+  {
+    "menue": "UI > Reticle",
+    "einstellung": "Reticle Messages",
+    "optionen": [
+      "On",
+      "Off"
+    ],
+    "standard": null,
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-010"
+    ]
+  },
+  {
+    "menue": "UI > Reticle",
+    "einstellung": "Projectile Arc",
+    "optionen": [
+      "Off (Toggle On)",
+      "On (Toggle Off)",
+      "Always On",
+      "Always Off"
+    ],
+    "standard": null,
+    "empfehlung_anfaenger": "Always On",
+    "status": "plausibel",
+    "quellen": [
+      "A-010",
+      "A-012"
+    ]
+  },
+  {
+    "menue": "UI > Combat",
+    "einstellung": "Weapon Preview",
+    "optionen": [
+      "On",
+      "Off"
+    ],
+    "standard": null,
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-010"
+    ]
+  },
+  {
+    "menue": "UI > Combat",
+    "einstellung": "Ammo",
+    "optionen": [
+      "On",
+      "Off"
+    ],
+    "standard": null,
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-010"
+    ]
+  },
+  {
+    "menue": "UI > Combat",
+    "einstellung": "Threat Indicators",
+    "optionen": [
+      "On",
+      "Off"
+    ],
+    "standard": "On",
+    "empfehlung_anfaenger": "On",
+    "status": "plausibel",
+    "quellen": [
+      "A-010",
+      "A-011"
+    ]
+  },
+  {
+    "menue": "UI > Combat",
+    "einstellung": "Damage Region Highlights",
+    "optionen": [
+      "On",
+      "Off"
+    ],
+    "standard": "On",
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-010",
+      "A-011"
+    ]
+  },
+  {
+    "menue": "UI > HUD Notifications",
+    "einstellung": "Ticker Feed, Criminal Profile, Relationship, Help Text, Reminder Tips, Objective, Mission Update, Phone Notifications, Area Discovery, Area Names, Street Names",
+    "optionen": [
+      "On",
+      "Off"
+    ],
+    "standard": null,
+    "empfehlung_anfaenger": "Help Text, Reminder Tips, Objective: On",
+    "status": "plausibel",
+    "quellen": [
+      "A-010"
+    ]
+  },
+  {
+    "menue": "UI > Progress Notifications",
+    "einstellung": "Progress Notifications (Weapons, Vehicles, Animals, Collections, Stunts, Basketball, Challenges, Map Updates)",
+    "optionen": [
+      "On",
+      "Off"
+    ],
+    "standard": null,
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-010"
+    ]
+  },
+  {
+    "menue": "UI > Player & Vehicle Status",
+    "einstellung": "Player Vitals, Wanted Stars, Heat Indicators, Money, Vehicle Name & Status",
+    "optionen": [
+      "On",
+      "Off"
+    ],
+    "standard": null,
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-010"
+    ]
+  },
+  {
+    "menue": "UI > Prompts",
+    "einstellung": "In-World Prompts",
+    "optionen": [
+      "On",
+      "Off"
+    ],
+    "standard": null,
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-010"
+    ]
+  },
+  {
+    "menue": "UI > Prompts",
+    "einstellung": "Prompt Visibility",
+    "optionen": [
+      "1-10"
+    ],
+    "standard": "7",
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-010"
+    ]
+  },
+  {
+    "menue": "UI > Prompts",
+    "einstellung": "Vehicle Prompt",
+    "optionen": [
+      "Off",
+      "Dynamic",
+      "On"
+    ],
+    "standard": null,
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-010"
+    ]
+  },
+  {
+    "menue": "UI > Prompts",
+    "einstellung": "Mini Game UI, Bottom Right Prompts, Prompt Pinning",
+    "optionen": [
+      "On",
+      "Off"
+    ],
+    "standard": null,
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-010"
+    ]
+  },
+  {
+    "menue": "UI > Activities",
+    "einstellung": "High Scoreboard, Central Messages, Activity Timers & Stats",
+    "optionen": [
+      "On",
+      "Off"
+    ],
+    "standard": null,
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-010"
+    ]
+  },
+  {
+    "menue": "UI > Units of Measurement",
+    "einstellung": "Distance",
+    "optionen": [
+      "Metric",
+      "Imperial"
+    ],
+    "standard": "Imperial",
+    "empfehlung_anfaenger": "Metric",
+    "status": "plausibel",
+    "quellen": [
+      "A-010",
+      "A-012"
+    ]
+  },
+  {
+    "menue": "UI > Units of Measurement",
+    "einstellung": "Weight",
+    "optionen": [
+      "Kilograms",
+      "Pounds"
+    ],
+    "standard": null,
+    "empfehlung_anfaenger": "Kilograms",
+    "status": "plausibel",
+    "quellen": [
+      "A-010",
+      "A-012"
+    ]
+  },
+  {
+    "menue": "UI > Units of Measurement",
+    "einstellung": "Temperature",
+    "optionen": [
+      "Celsius",
+      "Fahrenheit"
+    ],
+    "standard": null,
+    "empfehlung_anfaenger": "Celsius",
+    "status": "plausibel",
+    "quellen": [
+      "A-010",
+      "A-012"
+    ]
+  },
+  {
+    "menue": "UI > Units of Measurement",
+    "einstellung": "Clock Format",
+    "optionen": [
+      "12-hour",
+      "24-hour"
+    ],
+    "standard": null,
+    "empfehlung_anfaenger": "24-hour",
+    "status": "plausibel",
+    "quellen": [
+      "A-010",
+      "A-012"
+    ]
+  },
+  {
+    "menue": "Camera > On Foot",
+    "einstellung": "Height",
+    "optionen": [
+      "Low",
+      "Medium",
+      "High"
+    ],
+    "standard": null,
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-010"
+    ]
+  },
+  {
+    "menue": "Camera > On Foot",
+    "einstellung": "Horizontal Follow Speed",
+    "optionen": [
+      "1-10"
+    ],
+    "standard": null,
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-010"
+    ]
+  },
+  {
+    "menue": "Camera > On Foot",
+    "einstellung": "Vertical Follow Speed",
+    "optionen": [
+      "1-10"
+    ],
+    "standard": null,
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-010"
+    ]
+  },
+  {
+    "menue": "Camera > Land & Water Vehicles",
+    "einstellung": "Height (All Vehicles)",
+    "optionen": [
+      "Low",
+      "Medium",
+      "High"
+    ],
+    "standard": null,
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-010"
+    ]
+  },
+  {
+    "menue": "Camera > Land & Water Vehicles",
+    "einstellung": "Horizontal Follow Speed (Driver)",
+    "optionen": [
+      "1-10"
+    ],
+    "standard": "10",
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-010"
+    ]
+  },
+  {
+    "menue": "Camera > Land & Water Vehicles",
+    "einstellung": "Vertical Follow Speed (Driver)",
+    "optionen": [
+      "1-10"
+    ],
+    "standard": "10",
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-010"
+    ]
+  },
+  {
+    "menue": "Camera > Land & Water Vehicles",
+    "einstellung": "Follow Delay (Driver)",
+    "optionen": [
+      "1-10"
+    ],
+    "standard": null,
+    "empfehlung_anfaenger": null,
+    "status": "unbestaetigt",
+    "quellen": [
+      "A-010"
+    ]
+  },
+  {
+    "menue": "Camera > Land & Water Vehicles",
+    "einstellung": "Horizontal Follow Speed (Passenger)",
+    "optionen": [
+      "1-10"
+    ],
+    "standard": "4",
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-010"
+    ]
+  },
+  {
+    "menue": "Camera > Land & Water Vehicles",
+    "einstellung": "Vertical Follow Speed (Passenger)",
+    "optionen": [
+      "1-10"
+    ],
+    "standard": "4",
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-010"
+    ]
+  },
+  {
+    "menue": "Camera > Land & Water Vehicles",
+    "einstellung": "Follow Delay (Passenger)",
+    "optionen": [
+      "1-10"
+    ],
+    "standard": "10",
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-010"
+    ]
+  },
+  {
+    "menue": "Camera > Comfort",
+    "einstellung": "Camera Preference",
+    "optionen": [
+      "On",
+      "Off"
+    ],
+    "standard": null,
+    "empfehlung_anfaenger": "On",
+    "status": "plausibel",
+    "quellen": [
+      "A-010",
+      "A-012"
+    ]
+  },
+  {
+    "menue": "Camera > Comfort",
+    "einstellung": "Weapon Sway",
+    "optionen": [
+      "On",
+      "Off"
+    ],
+    "standard": "On",
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-010",
+      "A-011"
+    ]
+  },
+  {
+    "menue": "Camera > Comfort",
+    "einstellung": "Camera Shake",
+    "optionen": [
+      "On",
+      "Off"
+    ],
+    "standard": "On",
+    "empfehlung_anfaenger": "Off",
+    "status": "plausibel",
+    "quellen": [
+      "A-010",
+      "A-011",
+      "A-012"
+    ]
+  },
+  {
+    "menue": "Camera > Comfort",
+    "einstellung": "Camera Bob",
+    "optionen": [
+      "1-10"
+    ],
+    "standard": "10",
+    "empfehlung_anfaenger": "3-5 bei Unwohlsein",
+    "status": "plausibel",
+    "quellen": [
+      "A-010",
+      "A-011",
+      "A-012"
+    ]
+  },
+  {
+    "menue": "Camera > Comfort",
+    "einstellung": "Phone Display",
+    "optionen": [
+      "Default",
+      "First Person"
+    ],
+    "standard": "Default",
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-010"
+    ]
+  },
+  {
+    "menue": "Camera > Aircraft",
+    "einstellung": "Horizontal Follow Speed",
+    "optionen": [
+      "1-10"
+    ],
+    "standard": "5",
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-010"
+    ]
+  },
+  {
+    "menue": "Camera > Aircraft",
+    "einstellung": "Vertical Follow Speed",
+    "optionen": [
+      "1-10"
+    ],
+    "standard": "5",
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-010"
+    ]
+  },
+  {
+    "menue": "Camera > Aircraft",
+    "einstellung": "Follow Roll",
+    "optionen": [
+      "On",
+      "Off"
+    ],
+    "standard": null,
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-010"
+    ]
+  },
+  {
+    "menue": "Camera > Aircraft",
+    "einstellung": "Follow Roll Speed",
+    "optionen": [
+      "1-10"
+    ],
+    "standard": "5",
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-010"
+    ]
+  },
+  {
+    "menue": "Camera > Aircraft",
+    "einstellung": "Roll Deadzone Range",
+    "optionen": [
+      "1-10"
+    ],
+    "standard": "10",
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-010"
+    ]
+  },
+  {
+    "menue": "Camera > Underwater",
+    "einstellung": "Horizontal Follow Speed",
+    "optionen": [
+      "1-10"
+    ],
+    "standard": "2",
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-010"
+    ]
+  },
+  {
+    "menue": "Camera > Cinematic",
+    "einstellung": "Cinematic Kill Shot Frequency",
+    "optionen": [
+      "1-5"
+    ],
+    "standard": "3",
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-010"
+    ]
+  },
+  {
+    "menue": "Camera > Cinematic",
+    "einstellung": "Cinematic Vehicle Crash Frequency",
+    "optionen": [
+      "1-5"
+    ],
+    "standard": "3",
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-010"
+    ]
+  },
+  {
+    "menue": "Camera > Cinematic",
+    "einstellung": "Idle Camera",
+    "optionen": [
+      "On",
+      "Off"
+    ],
+    "standard": null,
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-010"
+    ]
+  },
+  {
+    "menue": "Audio > Setup",
+    "einstellung": "Mono Audio",
+    "optionen": [
+      "On",
+      "Off"
+    ],
+    "standard": "Off",
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-010",
+      "A-011"
+    ]
+  },
+  {
+    "menue": "Audio > Setup",
+    "einstellung": "Tinnitus Reduction",
+    "optionen": [
+      "On",
+      "Off"
+    ],
+    "standard": "Off",
+    "empfehlung_anfaenger": "On bei Bedarf",
+    "status": "plausibel",
+    "quellen": [
+      "A-010",
+      "A-011",
+      "A-012"
+    ]
+  },
+  {
+    "menue": "Audio > Setup",
+    "einstellung": "GPS Voice",
+    "optionen": [
+      "On",
+      "Tones",
+      "Voice",
+      "Off"
+    ],
+    "standard": "Off",
+    "empfehlung_anfaenger": "Voice",
+    "status": "plausibel",
+    "quellen": [
+      "A-010",
+      "A-011"
+    ]
+  },
+  {
+    "menue": "Audio > Setup",
+    "einstellung": "Mute Licensed Music",
+    "optionen": [
+      "On",
+      "Off"
+    ],
+    "standard": null,
+    "empfehlung_anfaenger": "Off (On nur für Streams/Aufnahmen)",
+    "status": "plausibel",
+    "quellen": [
+      "A-010",
+      "A-012"
+    ]
+  },
+  {
+    "menue": "Audio > Setup",
+    "einstellung": "Vehicle Radio",
+    "optionen": [
+      "Default",
+      "On",
+      "Off"
+    ],
+    "standard": "Default",
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-010"
+    ]
+  },
+  {
+    "menue": "Audio > Setup",
+    "einstellung": "Controller Speaker",
+    "optionen": [
+      "On",
+      "Off"
+    ],
+    "standard": "On",
+    "empfehlung_anfaenger": "On",
+    "status": "plausibel",
+    "quellen": [
+      "A-011"
+    ]
+  },
+  {
+    "menue": "Audio > Setup",
+    "einstellung": "Controller Cop Scanner",
+    "optionen": [
+      "On",
+      "Off"
+    ],
+    "standard": "Off",
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-011"
+    ]
+  },
+  {
+    "menue": "Audio > Volume",
+    "einstellung": "Master Volume, SFX, UI, Dialogue, Music, Media",
+    "optionen": [
+      "1-10"
+    ],
+    "standard": "10",
+    "empfehlung_anfaenger": "Dialogue hoch, Music/SFX etwas niedriger",
+    "status": "plausibel",
+    "quellen": [
+      "A-010",
+      "A-012"
+    ]
+  },
+  {
+    "menue": "Audio > Narration",
+    "einstellung": "Screen Narration",
+    "optionen": [
+      "On",
+      "Off"
+    ],
+    "standard": "Off",
+    "empfehlung_anfaenger": "Off (On bei Sehschwäche)",
+    "status": "plausibel",
+    "quellen": [
+      "A-010",
+      "A-011"
+    ]
+  },
+  {
+    "menue": "Audio > Narration",
+    "einstellung": "Audio Descriptions",
+    "optionen": [
+      "On",
+      "Off"
+    ],
+    "standard": null,
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-010"
+    ]
+  },
+  {
+    "menue": "Account",
+    "einstellung": "GTA+ Boosts",
+    "optionen": [
+      "On",
+      "Off"
+    ],
+    "standard": null,
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-010"
+    ]
+  },
+  {
+    "menue": "Account",
+    "einstellung": "Customer Support (QR-Code)",
+    "optionen": [],
+    "standard": null,
+    "empfehlung_anfaenger": null,
+    "status": "plausibel",
+    "quellen": [
+      "A-010"
+    ]
+  }
+]
