@@ -15,3 +15,12 @@
 | P-002 | ‘GTA VI’ Release Date And Time On PS5 And Xbox Series X, Download Size And Day-One Updates | Forbes (Erik Kain) | Fachmedium | https://www.forbes.com/sites/erikkain/2026/11/16/gta-6-release-date-time-ps5-xbox-series-x-download-size-day-one-update/ | 2026-11-26 | nur Suchergebnis | Release 19.11.2026, Mitternacht Ortszeit. Laut Agent A war 1.002.001 ein Vorab-Update vor Release, kein „Day-One-Patch“ (siehe A-021 bis A-023) |
 
 „nur Suchergebnis“ = Inhalt nur über Suchmaschinen-Auszug bekannt, Seite nicht vollständig gelesen → Aussagen daraus höchstens 🟡.
+
+## Nachprüfung durch die Projektleitung (Stichproben)
+
+| ID | Titel | Herausgeber | Typ | URL (vollständig) | Abgerufen am | Erreichbar? | Bemerkung |
+|---|---|---|---|---|---|---|---|
+| P-003 | GTA 6 is confirmed to run at 30 frames per second | Video Games Chronicle | Fachmedium | https://www.videogameschronicle.com/news/gta-6-is-confirmed-to-be-30-frames-per-second-at-launch-no-performance-mode-at-launch/ | 2026-11-26 | nur Suchergebnis | Gegenprüfung zu A-017/A-018: 30 FPS, kein Performance-Modus zum Start – bestätigt |
+| P-004 | GTA 6 Targeting 30fps on PS5, Undecided on Performance Mode | Push Square | Fachmedium | https://www.pushsquare.com/news/2026/08/gta-6-targeting-30fps-on-ps5-undecided-on-performance-mode | 2026-11-26 | nur Suchergebnis | Späterer Performance-Modus offen |
+| P-005 | GTA 6 controls guide (PS5/Xbox button layout) | GTABase | Fachseite | https://www.gtabase.com/articles/gta-6/gta-6-controls-guide-ps5-xbox-button-layout | 2026-11-26 | nur Suchergebnis | Gegenprüfung zu A-006–A-009: Rennen L3 (Default), Classic = Rennen auf Kreuz – bestätigt |
+| P-006 | GTA 6: How to sprint and change to classic GTA 5 controls | TheGameHaus | Fachseite | https://thegamehaus.com/gta-6/gta-6-how-to-sprint-and-change-to-classic-gta-5-controls/2026/11/19/ | 2026-11-26 | nur Suchergebnis | Classic: Nahkampf Kreis, Ducken L3 (Suchauszug) |

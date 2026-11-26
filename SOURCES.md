@@ -3,7 +3,7 @@
 > **Automatisch erzeugt** von `tools/build_sources.py` aus `quellen/notizen/*.md`. Bitte dort ändern, nicht hier.
 > „Erreichbar? = nein“ oder „nur Suchergebnis“ bedeutet: Die Seite wurde **nicht** vollständig geprüft. Aussagen daraus sind höchstens 🟡.
 
-**Anzahl Quellen:** 80
+**Anzahl Quellen:** 116
 
 ## A – Steuerung, Einstellungen, Technik, Patches
 
@@ -86,7 +86,40 @@
 
 ## C – Missionen, Story, Tipps, FAQ
 
-_(noch keine)_
+| ID | Titel | Herausgeber | Typ | URL | Abgerufen am | Erreichbar? | Bemerkung |
+|---|---|---|---|---|---|---|---|
+| C-001 | Grand Theft Auto VI – offizielle Website | Rockstar Games | offiziell | https://www.rockstargames.com/VI | 2026-11-26 | ja (teilweise, Inhalt abgeschnitten) | „Now Available“, Newswire 19.11.2026, Pre-Load-Post 10.11.2026, Prämisse Jason & Lucia, Plattformen, ESRB M, GTA+ |
+| C-002 | Grand Theft Auto VI – Produktseite (de-de) | Sony Interactive Entertainment / PlayStation | offiziell | https://www.playstation.com/de-de/games/grand-theft-auto-vi | 2026-11-26 | ja | Release 19.11.2026 (Metadaten: 18.11.), 212 GB, USK 18, Sprachen (Ton nur Englisch), PS5-Pro-Features, Einzelspieler, Preise |
+| C-003 | GTA VI – Figurenseite „People“ | Rockstar Games | offiziell | https://www.rockstargames.com/VI/people | 2026-11-26 | **nein (HTTP 404)** | Nicht geprüft; Inhalte über C-007/C-032 |
+| C-004 | GTA VI – Figurenseite „Characters“ | Rockstar Games | offiziell | https://www.rockstargames.com/VI/characters | 2026-11-26 | **nein (HTTP 404)** | URL geraten; nicht geprüft |
+| C-005 | GTA VI – Figurenprofil Jason Duval | Rockstar Games | offiziell | https://www.rockstargames.com/VI/people/jason-duval | 2026-11-26 | **nein (HTTP 404)** | URL geraten; nicht geprüft |
+| C-006 | Grand Theft Auto VI Pre-Order Information | Rockstar Games Support | offiziell | https://support.rockstargames.com/articles/3iH5w2nKVFySqs7hrONlLS/grand-theft-auto-vi-pre-order-information | 2026-11-26 | **nein (HTTP 503)** | Nicht geprüft; Disc-/Pre-Load-Infos stattdessen über C-026/C-027/C-002 |
+| C-007 | Rockstar Details 9 Of Grand Theft Auto VI's Presumably Many, Many Characters | Game Informer | Fachmedium | https://www.gameinformer.com/2025/05/06/rockstar-details-9-of-grand-theft-auto-vi-presumably-many-many-characters | 2026-11-26 | ja | 06.05.2025; fasst die Figurenprofile der Rockstar-Website zusammen |
+| C-008 | GTA 6 Story Missions Guide & Walkthrough | GTABase.com | Community (Guide-Seite) | https://www.gtabase.com/missions/gta-6/ | 2026-11-26 | ja | Prolog + 5 Kapitel, 109 Haupt- + 26 optionale Einträge, Spielfigur-Icons je Mission; kein Datum angegeben |
+| C-009 | GTA 6 Missionen (deutsche Fassung) | GTABase.com | Community (Guide-Seite) | https://www.gtabase.com/de/gta-6/missions | 2026-11-26 | ja | Deutsche Titel wirken wie eigene Übersetzungen, weichen von C-014 ab |
+| C-010 | GTA 6 Mission list | Dexerto | Fachmedium | https://www.dexerto.com/wikis/gta-6/mission-list/ | 2026-11-26 | ja | 91 Missionen in 5 Kapiteln; 3 Namen als Spoiler verborgen; Aktivitätenliste in Navigation; kein Datum |
+| C-011 | GTA 6 Missions List and Full Walkthrough | Beebom (Ishan Adhikary) | Fachmedium | https://beebom.com/gta-6-missions-list-walkthrough/ | 2026-11-26 | ja | Aktualisiert 25.11.2026; nennt 118 Einträge; interne Zählfehler (Kap. 1: 24 vs. 25; „Pay Abe's Fee“ doppelt) |
+| C-012 | Grand Theft Auto 6 complete walkthrough hub | VGC – Video Games Chronicle (Chris Scullion) | Fachmedium | https://www.videogameschronicle.com/news/grand-theft-auto-6-complete-walkthrough-hub/ | 2026-11-26 | ja | 24.11.2026; bisher nur Kapitel 1–3 (63 Einträge); Hinweis auf Point of No Return und Entscheidung |
+| C-013 | GTA 6 Chapter 1 Just Like Paradise Guide | VGC (Jordan Middler) | Fachmedium | https://www.videogameschronicle.com/guide/gta-6-chapter-1-just-like-paradise-guide-how-many-missions-are-in-gta-6-chapter-1/ | 2026-11-26 | ja | 18.11.2026; 22 Missionen in Kap. 1; Point of No Return |
+| C-014 | GTA 6: Alle Missionen und Kapitel im Überblick | Red Bull Gaming DE (Phil Briel) | Fachmedium | https://www.redbull.com/de-de/gta-6-missionen-kapitel-uebersicht | 2026-11-26 | ja | Aktualisiert 21.11.2026; 91 Missionen mit deutschen Titeln; Spielzeitangaben; Liste deckungsgleich mit C-010 (vermutlich nicht unabhängig) |
+| C-015 | GTA 6 Complete Mission List and Story Recap | Gfinity Esports (Chris Foster-Davison) | Fachmedium | https://www.gfinityesports.com/article/gta-6-complete-mission-list-and-story-recap | 2026-11-26 | ja | 19.11., aktualisiert 23.11.2026; 92 Missionen; Kapitel-Zusammenfassungen (S2) |
+| C-016 | Grand Theft Auto VI | Wikipedia (englisch) | Community | https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI | 2026-11-26 | teilweise (erste ca. 100.000 von 227.000 Zeichen) | Handlung (S2), Missionsstruktur, mehrere Enden, Hinweise zu 30 FPS/PC – nur ergänzend |
+| C-017 | GTA 6: How to save | Dexerto | Fachmedium | https://www.dexerto.com/wikis/gta-6/how-to-save/ | 2026-11-26 | ja | 15 Slots + 1 Autosave, Menüpfad; kein Datum |
+| C-018 | GTA 6: How to replay missions | Dexerto | Fachmedium | https://www.dexerto.com/wikis/gta-6/how-to-replay-missions/ | 2026-11-26 | ja | Kein Replay-Menü; Entscheidungen; kein Datum |
+| C-019 | GTA 6 beginner's guide: 6 tips you need to know | VGC (Jordan Middler) | Fachmedium | https://www.videogameschronicle.com/guide/gta-6-beginners-guide-6-tips-you-need-to-know-before-starting-gta-6/ | 2026-11-26 | ja | 18.11.2026 |
+| C-020 | How to change characters in GTA 6 | VGC (Jordan Middler) | Fachmedium | https://www.videogameschronicle.com/guide/how-to-change-characters-in-gta-6 | 2026-11-26 | ja | 18.11.2026; Steuerkreuz rechts; Ablauf Kap. 1–2 |
+| C-021 | Best GTA 6 Tips and Tricks Every Beginner Should Know | Beebom (Sanmay Chakrabarti) | Fachmedium | https://beebom.com/gta-6-tips-and-tricks/ | 2026-11-26 | ja | Aktualisiert 20.11.2026; keine Tastenangaben |
+| C-022 | GTA 6 Strangers & Freaks Side Missions Guide | PowerPyx | Community (Guide-Seite) | https://www.powerpyx.com/?p=374431 | 2026-11-26 | ja | 18.11.2026; 23 Strang-Figuren nach Kapitel; Trophäe für 8 Stränge |
+| C-023 | GTA 6 Story Mode Guide: Missions and Walkthroughs | GTA BOOM (Matt Gibbs) | Community (Fanseite) | https://www.gtaboom.com/gta-6-story-mode-guide-ba58 | 2026-11-26 | ja | 18.11.2026; Story-Liste der Karte, Start über Kontakte |
+| C-024 | How to Open the Map in GTA 6 and Set a Destination or Marker (PS5) | AllThingsHow | Community (Guide-Seite) | https://allthings.how/?p=360702 | 2026-11-26 | ja | Aktualisiert 19.11.2026; Kartentasten PS5 |
+| C-025 | GTA 6 is single-player only at launch, with no online yet | GGRecon (Chris Young) | Fachmedium | https://www.ggrecon.com/articles/gta-6-single-player-no-online-at-launch/ | 2026-11-26 | ja | 15.11.2026; Online-Schätzung 2027 ausdrücklich nur Einschätzung |
+| C-026 | Rockstar confirms there will be no disc version of GTA 6 at launch | VGC (Andy Robinson) | Fachmedium | https://videogameschronicle.com/news/rockstar-confirms-there-will-be-no-disc-version-of-gta6-at-launch/ | 2026-11-26 | ja | 24.06.2026; zitiert Rockstar |
+| C-027 | GTA 6 Physical Edition Doesn't Come with Discs, It's a Code in the Box | Push Square (Liam Croft) | Fachmedium | https://www.pushsquare.com/news/2026/06/gta-6-physical-edition-doesnt-come-with-discs-its-a-code-in-the-box | 2026-11-26 | ja (teilweise) | 24.06.2026; zitiert Rockstar-Pressemitteilung |
+| C-028 | How long is GTA 6? About 80 hours, according to one Rockstar dev's playthrough | GamesRadar+ | Fachmedium | https://www.gamesradar.com/games/grand-theft-auto/how-long-is-gta-6-about-80-hours-according-to-one-rockstar-devs-playthrough/ | 2026-11-26 | teilweise (nur Überschrift lesbar) | Nur als Bestätigung der Überschrift genutzt |
+| C-029 | GTA 6 Walkthrough: All Chapters and Story Missions in Order | KeenGamer | Fachmedium | https://www.keengamer.com/articles/guides/gta-6-walkthrough-all-chapters-and-story-missions-in-order/ | 2026-11-26 | **nein (HTTP 500)** | Nicht geprüft, nicht verwendet |
+| C-030 | GTA 6 won't let you switch between Lucia and Jason whenever you want … | GamesRadar+ | Fachmedium | https://www.gamesradar.com/games/grand-theft-auto/gta-6-wont-let-you-switch-between-lucia-and-jason-whenever-you-want-because-it-would-be-unnatural-for-story-progression/ | 2026-11-26 | teilweise (nur Überschrift lesbar) | Sprecher/Datum nicht lesbar; nicht als Beleg verwendet |
+| C-031 | GTA 6 will be a massive game … up to 80 hours to beat | TechRadar (Demi Williams) | Fachmedium | https://techradar.com/gaming/gta-6-will-be-a-massive-game-and-rockstars-longest-yet-as-the-studio-confirms-it-can-take-up-to-80-hours-to-beat | 2026-11-26 | ja | 28.08.2026; Rob Nelson (Rockstar North) im New-York-Times-Interview |
+| C-032 | Grand Theft Auto VI: All the characters revealed to date | Gamereactor | Fachmedium | https://www.gamereactor.eu/news/1538703/Grand+Theft+Auto+VI+All+the+characters+revealed+to+date/ | 2026-11-26 | ja | 06.05.2025; verweist auf rockstargames.com/VI; schreibt „Carl Hampton“ |
 
 ## V – Voice-Coach und KI-Werkzeuge
 
@@ -108,6 +141,10 @@ _(noch keine)_
 |---|---|---|---|---|---|---|---|
 | P-001 | Grand Theft Auto VI – PS5 Games | PlayStation | offiziell | https://www.playstation.com/en-us/games/grand-theft-auto-vi/ | 2026-11-26 | nur Suchergebnis | Nur PS5 (keine PS4-Version) |
 | P-002 | ‘GTA VI’ Release Date And Time On PS5 And Xbox Series X, Download Size And Day-One Updates | Forbes (Erik Kain) | Fachmedium | https://www.forbes.com/sites/erikkain/2026/11/16/gta-6-release-date-time-ps5-xbox-series-x-download-size-day-one-update/ | 2026-11-26 | nur Suchergebnis | Release 19.11.2026, Mitternacht Ortszeit. Laut Agent A war 1.002.001 ein Vorab-Update vor Release, kein „Day-One-Patch“ (siehe A-021 bis A-023) |
+| P-003 | GTA 6 is confirmed to run at 30 frames per second | Video Games Chronicle | Fachmedium | https://www.videogameschronicle.com/news/gta-6-is-confirmed-to-be-30-frames-per-second-at-launch-no-performance-mode-at-launch/ | 2026-11-26 | nur Suchergebnis | Gegenprüfung zu A-017/A-018: 30 FPS, kein Performance-Modus zum Start – bestätigt |
+| P-004 | GTA 6 Targeting 30fps on PS5, Undecided on Performance Mode | Push Square | Fachmedium | https://www.pushsquare.com/news/2026/08/gta-6-targeting-30fps-on-ps5-undecided-on-performance-mode | 2026-11-26 | nur Suchergebnis | Späterer Performance-Modus offen |
+| P-005 | GTA 6 controls guide (PS5/Xbox button layout) | GTABase | Fachseite | https://www.gtabase.com/articles/gta-6/gta-6-controls-guide-ps5-xbox-button-layout | 2026-11-26 | nur Suchergebnis | Gegenprüfung zu A-006–A-009: Rennen L3 (Default), Classic = Rennen auf Kreuz – bestätigt |
+| P-006 | GTA 6: How to sprint and change to classic GTA 5 controls | TheGameHaus | Fachseite | https://thegamehaus.com/gta-6/gta-6-how-to-sprint-and-change-to-classic-gta-5-controls/2026/11/19/ | 2026-11-26 | nur Suchergebnis | Classic: Nahkampf Kreis, Ducken L3 (Suchauszug) |
 
 ## U – Eigene Beobachtungen des Nutzers
 

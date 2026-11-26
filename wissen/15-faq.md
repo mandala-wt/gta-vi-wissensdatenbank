@@ -80,6 +80,7 @@
 - ⚠️ Widerspruch: **Release-Datum in Metadaten**: Die PlayStation-Seite nennt im Text den 19.11.2026, in den Metadaten den 18.11.2026 [C-002]. Offiziell gilt der 19.11.2026 [C-001].
 - ⚠️ Widerspruch: **Zeitpunkt des freien Figurenwechsels**: VGC: „im Laufe von Kapitel 2, das Spiel zeigt es an“ [C-020]. Andere Guides nennen laut Suchergebnissen jeweils andere Missionen oder „ab ca. 35 % Story-Fortschritt“ (nicht einzeln geprüft). Für den Berater gilt: „im Laufe der Story, das Spiel sagt Bescheid“.
 - ⚠️ Widerspruch: **Eingabe für den Wechsel**: VGC: Steuerkreuz rechts drücken [C-020]. Andere Guides: Steuerkreuz rechts **halten** (Partner-Menü), dann **R1** (Suchergebnis, nicht geprüft). GTA BOOM: Steuerkreuz rechts halten = Kriminalprofil [C-023]. → In [01-steuerung-dualsense](01-steuerung-dualsense.md) klären.
+- ⚠️ Widerspruch: **Anzahl Speicherplätze**: 15 manuelle + 1 Autosave [C-017] [C-018] vs. 15 Plätze insgesamt, davon einer Autosave (= 14 manuelle) laut VGC [B-019]. Siehe auch [05-spielmechaniken](05-spielmechaniken.md). Für den Berater gilt: „rund 15 Plätze, mehrere davon nutzen“. (Projektleitung, Abgleich 2026-11-26)
 - ⚠️ Widerspruch: **Disc später?** Ein Bericht nennt Discs „in den Monaten nach dem Launch“, ein anderer „keine Pläne“ (beides nur Suchergebnisse). Belegt ist nur: zum Start keine Disc [C-026] [C-027].
 - ⚠️ Widerspruch: **Spielzeit**: 80 h (Rockstar-Entwickler inkl. optionaler Ziele) [C-031] vs. 65–70 h Hauptstory (Red Bull DE) [C-014]. Kein echter Gegensatz, unterschiedliche Messweise.
 

@@ -116,7 +116,31 @@ Alle Einstellungen findest du in [02 – Einstellungen](wissen/02-einstellungen.
 
 ## Teil 6 – Story, Tipps und häufige Fragen
 
-<!-- TEIL6 -->
+### 6.1 Worum es geht (spoilerfrei, nur offizielles Marketing)
+- ✅ Hauptfiguren sind **Lucia Caminos** und **Jason Duval**, ein Gaunerpärchen. Ein „leichter Coup“ geht schief, und die beiden geraten in eine Verschwörung quer durch Leonida. [C-001] [C-002]
+- ✅ Weitere vor Release vorgestellte Figuren: u. a. Cal Hampton, Boobie Ike, Dre'Quan Priest. [C-007] [C-032]
+- Mehr steht nur im Spoiler-Bereich, getrennt nach Kapiteln: [spoiler/README.md](spoiler/README.md). → [09 – Story und Charaktere](wissen/09-story-charaktere.md)
+
+### 6.2 Die 6 wichtigsten Tipps
+1. 🟡 **Mehrere Speicherplätze nutzen.** Es gibt keine Missionswiederholung. [C-017] [C-018]
+2. 🟡 **Bargeld sichern.** Bei Tod oder Verhaftung ist es weg. [B-015] [B-024]
+3. 🟡 **Optionales vor dem Story-Fortschritt erledigen.** Mindestens einmal wird ein Gebiet zeitweise gesperrt, und manche Nebenaufgaben kann man verpassen. [C-013] [C-008]
+4. 🟡 **Auf die Uhrzeit achten.** Tag und Nacht dauern länger, manche Läden schließen nachts. Schlafen spult die Zeit vor. [C-019]
+5. ✅ **Unauffällig bleiben.** Ohne Zeugen keine Fahndung. Nach Ärger Kleidung und Auto wechseln. [B-009] [B-014]
+6. ✅ **Tanken und Auto prüfen**, bevor du losfährst (Scanner-App wegen Trackern). [B-011] [B-021]
+→ [14 – Tipps und Tricks](wissen/14-tipps-tricks.md)
+
+### 6.3 Kurz-FAQ
+| Frage | Antwort | Status |
+|---|---|---|
+| Gibt es einen Online-Modus? | Nein, zum Start ist es ein reines Einzelspieler-Spiel. | ✅ [C-002] |
+| Brauche ich PS Plus? | Nein, nicht für das Einzelspieler-Spiel. | ✅ [C-002] |
+| Altersfreigabe? | **USK 18** | ✅ [C-001] [C-002] |
+| Disc oder Download? | Auch die Box enthält nur einen **Download-Code**. | ✅ [C-026] [C-027] |
+| Wie lang ist das Spiel? | Ein Rockstar-Entwickler brauchte rund **80 Stunden** (inkl. optionaler Ziele). | ✅ [C-031] [C-028] |
+| Wie viele Speicherplätze? | Rund 15 (⚠️ 14 oder 15 manuelle, Quellen widersprechen sich) | 🟡 [B-019] [C-017] |
+| Wann kann ich die Figur wechseln? | Im Laufe der Story. Das Spiel sagt Bescheid. | ✅ [B-018] [C-020] |
+→ [15 – FAQ](wissen/15-faq.md)
 
 ---
 
